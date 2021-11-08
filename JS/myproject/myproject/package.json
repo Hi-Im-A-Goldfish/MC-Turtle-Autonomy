@@ -1,0 +1,16 @@
+{
+  "name": "myproject",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.5.4"
+  },
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "three": "^0.132.2"
+  }
+}

@@ -1,0 +1,3034 @@
+[
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Awaitable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "cast",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Type",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "cast",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Awaitable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncIterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncIterator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Awaitable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Deque",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Mapping",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "cast",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Awaitable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Set",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Type",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "cast",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Mapping",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "MutableMapping",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "NamedTuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypeVar",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "cast",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "NamedTuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "cast",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "NewType",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "NamedTuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "zlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "zlib",
+        "description": "zlib",
+        "detail": "zlib",
+        "documentation": {}
+    },
+    {
+        "label": "functools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "functools",
+        "description": "functools",
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "hmac",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hmac",
+        "description": "hmac",
+        "detail": "hmac",
+        "documentation": {}
+    },
+    {
+        "label": "http",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "http",
+        "description": "http",
+        "detail": "http",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "collections.abc",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "collections.abc",
+        "description": "collections.abc",
+        "detail": "collections.abc",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "TracebackType",
+        "importPath": "types",
+        "description": "types",
+        "isExtraImport": true,
+        "detail": "types",
+        "documentation": {}
+    },
+    {
+        "label": "TracebackType",
+        "importPath": "types",
+        "description": "types",
+        "isExtraImport": true,
+        "detail": "types",
+        "documentation": {}
+    },
+    {
+        "label": "struct",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "struct",
+        "description": "struct",
+        "detail": "struct",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "binascii",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "binascii",
+        "description": "binascii",
+        "detail": "binascii",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "codecs",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "codecs",
+        "description": "codecs",
+        "detail": "codecs",
+        "documentation": {}
+    },
+    {
+        "label": "collections",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "collections",
+        "description": "collections",
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "enum",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "enum",
+        "description": "enum",
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "email.utils",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "email.utils",
+        "description": "email.utils",
+        "detail": "email.utils",
+        "documentation": {}
+    },
+    {
+        "label": "socket",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "socket",
+        "description": "socket",
+        "detail": "socket",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "secrets",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "secrets",
+        "description": "secrets",
+        "detail": "secrets",
+        "documentation": {}
+    },
+    {
+        "label": "ipaddress",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ipaddress",
+        "description": "ipaddress",
+        "detail": "ipaddress",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.parse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "itertools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "itertools",
+        "description": "itertools",
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocketServer",
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "isExtraImport": true,
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "websockets",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "websockets",
+        "description": "websockets",
+        "detail": "websockets",
+        "documentation": {}
+    },
+    {
+        "label": "Extension",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.extensions.base",
+        "description": "JS.myproject.myproject.websockets.extensions.base",
+        "peekOfCode": "class Extension:\n    \"\"\"\n    Abstract class for extensions.\n    \"\"\"\n    @property\n    def name(self) -> ExtensionName:\n        \"\"\"\n        Extension identifier.\n        \"\"\"\n    def decode(self, frame: Frame, *, max_size: Optional[int] = None) -> Frame:",
+        "detail": "JS.myproject.myproject.websockets.extensions.base",
+        "documentation": {}
+    },
+    {
+        "label": "ClientExtensionFactory",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.extensions.base",
+        "description": "JS.myproject.myproject.websockets.extensions.base",
+        "peekOfCode": "class ClientExtensionFactory:\n    \"\"\"\n    Abstract class for client-side extension factories.\n    \"\"\"\n    @property\n    def name(self) -> ExtensionName:\n        \"\"\"\n        Extension identifier.\n        \"\"\"\n    def get_request_params(self) -> List[ExtensionParameter]:",
+        "detail": "JS.myproject.myproject.websockets.extensions.base",
+        "documentation": {}
+    },
+    {
+        "label": "ServerExtensionFactory",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.extensions.base",
+        "description": "JS.myproject.myproject.websockets.extensions.base",
+        "peekOfCode": "class ServerExtensionFactory:\n    \"\"\"\n    Abstract class for server-side extension factories.\n    \"\"\"\n    @property\n    def name(self) -> ExtensionName:\n        \"\"\"\n        Extension identifier.\n        \"\"\"\n    def process_request_params(",
+        "detail": "JS.myproject.myproject.websockets.extensions.base",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.extensions.base",
+        "description": "JS.myproject.myproject.websockets.extensions.base",
+        "peekOfCode": "__all__ = [\"Extension\", \"ClientExtensionFactory\", \"ServerExtensionFactory\"]\nclass Extension:\n    \"\"\"\n    Abstract class for extensions.\n    \"\"\"\n    @property\n    def name(self) -> ExtensionName:\n        \"\"\"\n        Extension identifier.\n        \"\"\"",
+        "detail": "JS.myproject.myproject.websockets.extensions.base",
+        "documentation": {}
+    },
+    {
+        "label": "PerMessageDeflate",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "description": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "peekOfCode": "class PerMessageDeflate(Extension):\n    \"\"\"\n    Per-Message Deflate extension.\n    \"\"\"\n    name = ExtensionName(\"permessage-deflate\")\n    def __init__(\n        self,\n        remote_no_context_takeover: bool,\n        local_no_context_takeover: bool,\n        remote_max_window_bits: int,",
+        "detail": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "documentation": {}
+    },
+    {
+        "label": "ClientPerMessageDeflateFactory",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "description": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "peekOfCode": "class ClientPerMessageDeflateFactory(ClientExtensionFactory):\n    \"\"\"\n    Client-side extension factory for the Per-Message Deflate extension.\n    Parameters behave as described in `section 7.1 of RFC 7692`_. Set them to\n    ``True`` to include them in the negotiation offer without a value or to an\n    integer value to include them with this value.\n    .. _section 7.1 of RFC 7692: https://tools.ietf.org/html/rfc7692#section-7.1\n    :param server_no_context_takeover: defaults to ``False``\n    :param client_no_context_takeover: defaults to ``False``\n    :param server_max_window_bits: optional, defaults to ``None``",
+        "detail": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "documentation": {}
+    },
+    {
+        "label": "ServerPerMessageDeflateFactory",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "description": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "peekOfCode": "class ServerPerMessageDeflateFactory(ServerExtensionFactory):\n    \"\"\"\n    Server-side extension factory for the Per-Message Deflate extension.\n    Parameters behave as described in `section 7.1 of RFC 7692`_. Set them to\n    ``True`` to include them in the negotiation offer without a value or to an\n    integer value to include them with this value.\n    .. _section 7.1 of RFC 7692: https://tools.ietf.org/html/rfc7692#section-7.1\n    :param server_no_context_takeover: defaults to ``False``\n    :param client_no_context_takeover: defaults to ``False``\n    :param server_max_window_bits: optional, defaults to ``None``",
+        "detail": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "documentation": {}
+    },
+    {
+        "label": "enable_client_permessage_deflate",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "description": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "peekOfCode": "def enable_client_permessage_deflate(\n    extensions: Optional[Sequence[ClientExtensionFactory]],\n) -> Sequence[ClientExtensionFactory]:\n    \"\"\"\n    Enable Per-Message Deflate with default settings in client extensions.\n    If the extension is already present, perhaps with non-default settings,\n    the configuration isn't changed.\n    \"\"\"\n    if extensions is None:\n        extensions = []",
+        "detail": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "documentation": {}
+    },
+    {
+        "label": "enable_server_permessage_deflate",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "description": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "peekOfCode": "def enable_server_permessage_deflate(\n    extensions: Optional[Sequence[ServerExtensionFactory]],\n) -> Sequence[ServerExtensionFactory]:\n    \"\"\"\n    Enable Per-Message Deflate with default settings in server extensions.\n    If the extension is already present, perhaps with non-default settings,\n    the configuration isn't changed.\n    \"\"\"\n    if extensions is None:\n        extensions = []",
+        "detail": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "description": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "peekOfCode": "__all__ = [\n    \"PerMessageDeflate\",\n    \"ClientPerMessageDeflateFactory\",\n    \"enable_client_permessage_deflate\",\n    \"ServerPerMessageDeflateFactory\",\n    \"enable_server_permessage_deflate\",\n]\n_EMPTY_UNCOMPRESSED_BLOCK = b\"\\x00\\x00\\xff\\xff\"\n_MAX_WINDOW_BITS_VALUES = [str(bits) for bits in range(8, 16)]\nclass PerMessageDeflate(Extension):",
+        "detail": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "documentation": {}
+    },
+    {
+        "label": "_EMPTY_UNCOMPRESSED_BLOCK",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "description": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "peekOfCode": "_EMPTY_UNCOMPRESSED_BLOCK = b\"\\x00\\x00\\xff\\xff\"\n_MAX_WINDOW_BITS_VALUES = [str(bits) for bits in range(8, 16)]\nclass PerMessageDeflate(Extension):\n    \"\"\"\n    Per-Message Deflate extension.\n    \"\"\"\n    name = ExtensionName(\"permessage-deflate\")\n    def __init__(\n        self,\n        remote_no_context_takeover: bool,",
+        "detail": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "documentation": {}
+    },
+    {
+        "label": "_MAX_WINDOW_BITS_VALUES",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "description": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "peekOfCode": "_MAX_WINDOW_BITS_VALUES = [str(bits) for bits in range(8, 16)]\nclass PerMessageDeflate(Extension):\n    \"\"\"\n    Per-Message Deflate extension.\n    \"\"\"\n    name = ExtensionName(\"permessage-deflate\")\n    def __init__(\n        self,\n        remote_no_context_takeover: bool,\n        local_no_context_takeover: bool,",
+        "detail": "JS.myproject.myproject.websockets.extensions.permessage_deflate",
+        "documentation": {}
+    },
+    {
+        "label": "BasicAuthWebSocketServerProtocol",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.legacy.auth",
+        "description": "JS.myproject.myproject.websockets.legacy.auth",
+        "peekOfCode": "class BasicAuthWebSocketServerProtocol(WebSocketServerProtocol):\n    \"\"\"\n    WebSocket server protocol that enforces HTTP Basic Auth.\n    \"\"\"\n    def __init__(\n        self,\n        *args: Any,\n        realm: str,\n        check_credentials: Callable[[str, str], Awaitable[bool]],\n        **kwargs: Any,",
+        "detail": "JS.myproject.myproject.websockets.legacy.auth",
+        "documentation": {}
+    },
+    {
+        "label": "is_credentials",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.legacy.auth",
+        "description": "JS.myproject.myproject.websockets.legacy.auth",
+        "peekOfCode": "def is_credentials(value: Any) -> bool:\n    try:\n        username, password = value\n    except (TypeError, ValueError):\n        return False\n    else:\n        return isinstance(username, str) and isinstance(password, str)\nclass BasicAuthWebSocketServerProtocol(WebSocketServerProtocol):\n    \"\"\"\n    WebSocket server protocol that enforces HTTP Basic Auth.",
+        "detail": "JS.myproject.myproject.websockets.legacy.auth",
+        "documentation": {}
+    },
+    {
+        "label": "basic_auth_protocol_factory",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.legacy.auth",
+        "description": "JS.myproject.myproject.websockets.legacy.auth",
+        "peekOfCode": "def basic_auth_protocol_factory(\n    realm: str,\n    credentials: Optional[Union[Credentials, Iterable[Credentials]]] = None,\n    check_credentials: Optional[Callable[[str, str], Awaitable[bool]]] = None,\n    create_protocol: Optional[Callable[[Any], BasicAuthWebSocketServerProtocol]] = None,\n) -> Callable[[Any], BasicAuthWebSocketServerProtocol]:\n    \"\"\"\n    Protocol factory that enforces HTTP Basic Auth.\n    ``basic_auth_protocol_factory`` is designed to integrate with\n    :func:`~websockets.legacy.server.serve` like this::",
+        "detail": "JS.myproject.myproject.websockets.legacy.auth",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.legacy.auth",
+        "description": "JS.myproject.myproject.websockets.legacy.auth",
+        "peekOfCode": "__all__ = [\"BasicAuthWebSocketServerProtocol\", \"basic_auth_protocol_factory\"]\nCredentials = Tuple[str, str]\ndef is_credentials(value: Any) -> bool:\n    try:\n        username, password = value\n    except (TypeError, ValueError):\n        return False\n    else:\n        return isinstance(username, str) and isinstance(password, str)\nclass BasicAuthWebSocketServerProtocol(WebSocketServerProtocol):",
+        "detail": "JS.myproject.myproject.websockets.legacy.auth",
+        "documentation": {}
+    },
+    {
+        "label": "Credentials",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.legacy.auth",
+        "description": "JS.myproject.myproject.websockets.legacy.auth",
+        "peekOfCode": "Credentials = Tuple[str, str]\ndef is_credentials(value: Any) -> bool:\n    try:\n        username, password = value\n    except (TypeError, ValueError):\n        return False\n    else:\n        return isinstance(username, str) and isinstance(password, str)\nclass BasicAuthWebSocketServerProtocol(WebSocketServerProtocol):\n    \"\"\"",
+        "detail": "JS.myproject.myproject.websockets.legacy.auth",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocketClientProtocol",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.legacy.client",
+        "description": "JS.myproject.myproject.websockets.legacy.client",
+        "peekOfCode": "class WebSocketClientProtocol(WebSocketCommonProtocol):\n    \"\"\"\n    :class:`~asyncio.Protocol` subclass implementing a WebSocket client.\n    :class:`WebSocketClientProtocol`:\n    * performs the opening handshake to establish the connection;\n    * provides :meth:`recv` and :meth:`send` coroutines for receiving and\n      sending messages;\n    * deals with control frames automatically;\n    * performs the closing handshake to terminate the connection.\n    :class:`WebSocketClientProtocol` supports asynchronous iteration::",
+        "detail": "JS.myproject.myproject.websockets.legacy.client",
+        "documentation": {}
+    },
+    {
+        "label": "Connect",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.legacy.client",
+        "description": "JS.myproject.myproject.websockets.legacy.client",
+        "peekOfCode": "class Connect:\n    \"\"\"\n    Connect to the WebSocket server at the given ``uri``.\n    Awaiting :func:`connect` yields a :class:`WebSocketClientProtocol` which\n    can then be used to send and receive messages.\n    :func:`connect` can also be used as a asynchronous context manager::\n        async with connect(...) as websocket:\n            ...\n    In that case, the connection is closed when exiting the context.\n    :func:`connect` is a wrapper around the event loop's",
+        "detail": "JS.myproject.myproject.websockets.legacy.client",
+        "documentation": {}
+    },
+    {
+        "label": "unix_connect",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.legacy.client",
+        "description": "JS.myproject.myproject.websockets.legacy.client",
+        "peekOfCode": "def unix_connect(\n    path: Optional[str], uri: str = \"ws://localhost/\", **kwargs: Any\n) -> Connect:\n    \"\"\"\n    Similar to :func:`connect`, but for connecting to a Unix socket.\n    This function calls the event loop's\n    :meth:`~asyncio.loop.create_unix_connection` method.\n    It is only available on Unix.\n    It's mainly useful for debugging servers listening on Unix sockets.\n    :param path: file system path to the Unix socket",
+        "detail": "JS.myproject.myproject.websockets.legacy.client",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.legacy.client",
+        "description": "JS.myproject.myproject.websockets.legacy.client",
+        "peekOfCode": "__all__ = [\"connect\", \"unix_connect\", \"WebSocketClientProtocol\"]\nlogger = logging.getLogger(\"websockets.server\")\nclass WebSocketClientProtocol(WebSocketCommonProtocol):\n    \"\"\"\n    :class:`~asyncio.Protocol` subclass implementing a WebSocket client.\n    :class:`WebSocketClientProtocol`:\n    * performs the opening handshake to establish the connection;\n    * provides :meth:`recv` and :meth:`send` coroutines for receiving and\n      sending messages;\n    * deals with control frames automatically;",
+        "detail": "JS.myproject.myproject.websockets.legacy.client",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.legacy.client",
+        "description": "JS.myproject.myproject.websockets.legacy.client",
+        "peekOfCode": "logger = logging.getLogger(\"websockets.server\")\nclass WebSocketClientProtocol(WebSocketCommonProtocol):\n    \"\"\"\n    :class:`~asyncio.Protocol` subclass implementing a WebSocket client.\n    :class:`WebSocketClientProtocol`:\n    * performs the opening handshake to establish the connection;\n    * provides :meth:`recv` and :meth:`send` coroutines for receiving and\n      sending messages;\n    * deals with control frames automatically;\n    * performs the closing handshake to terminate the connection.",
+        "detail": "JS.myproject.myproject.websockets.legacy.client",
+        "documentation": {}
+    },
+    {
+        "label": "connect",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.legacy.client",
+        "description": "JS.myproject.myproject.websockets.legacy.client",
+        "peekOfCode": "connect = Connect\ndef unix_connect(\n    path: Optional[str], uri: str = \"ws://localhost/\", **kwargs: Any\n) -> Connect:\n    \"\"\"\n    Similar to :func:`connect`, but for connecting to a Unix socket.\n    This function calls the event loop's\n    :meth:`~asyncio.loop.create_unix_connection` method.\n    It is only available on Unix.\n    It's mainly useful for debugging servers listening on Unix sockets.",
+        "detail": "JS.myproject.myproject.websockets.legacy.client",
+        "documentation": {}
+    },
+    {
+        "label": "Frame",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.legacy.framing",
+        "description": "JS.myproject.myproject.websockets.legacy.framing",
+        "peekOfCode": "class Frame(NewFrame):\n    @classmethod\n    async def read(\n        cls,\n        reader: Callable[[int], Awaitable[bytes]],\n        *,\n        mask: bool,\n        max_size: Optional[int] = None,\n        extensions: Optional[Sequence[\"extensions.Extension\"]] = None,\n    ) -> \"Frame\":",
+        "detail": "JS.myproject.myproject.websockets.legacy.framing",
+        "documentation": {}
+    },
+    {
+        "label": "build_request",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.legacy.handshake",
+        "description": "JS.myproject.myproject.websockets.legacy.handshake",
+        "peekOfCode": "def build_request(headers: Headers) -> str:\n    \"\"\"\n    Build a handshake request to send to the server.\n    Update request headers passed in argument.\n    :param headers: request headers\n    :returns: ``key`` which must be passed to :func:`check_response`\n    \"\"\"\n    key = generate_key()\n    headers[\"Upgrade\"] = \"websocket\"\n    headers[\"Connection\"] = \"Upgrade\"",
+        "detail": "JS.myproject.myproject.websockets.legacy.handshake",
+        "documentation": {}
+    },
+    {
+        "label": "check_request",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.legacy.handshake",
+        "description": "JS.myproject.myproject.websockets.legacy.handshake",
+        "peekOfCode": "def check_request(headers: Headers) -> str:\n    \"\"\"\n    Check a handshake request received from the client.\n    This function doesn't verify that the request is an HTTP/1.1 or higher GET\n    request and doesn't perform ``Host`` and ``Origin`` checks. These controls\n    are usually performed earlier in the HTTP request handling code. They're\n    the responsibility of the caller.\n    :param headers: request headers\n    :returns: ``key`` which must be passed to :func:`build_response`\n    :raises ~websockets.exceptions.InvalidHandshake: if the handshake request",
+        "detail": "JS.myproject.myproject.websockets.legacy.handshake",
+        "documentation": {}
+    },
+    {
+        "label": "build_response",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.legacy.handshake",
+        "description": "JS.myproject.myproject.websockets.legacy.handshake",
+        "peekOfCode": "def build_response(headers: Headers, key: str) -> None:\n    \"\"\"\n    Build a handshake response to send to the client.\n    Update response headers passed in argument.\n    :param headers: response headers\n    :param key: comes from :func:`check_request`\n    \"\"\"\n    headers[\"Upgrade\"] = \"websocket\"\n    headers[\"Connection\"] = \"Upgrade\"\n    headers[\"Sec-WebSocket-Accept\"] = accept(key)",
+        "detail": "JS.myproject.myproject.websockets.legacy.handshake",
+        "documentation": {}
+    },
+    {
+        "label": "check_response",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.legacy.handshake",
+        "description": "JS.myproject.myproject.websockets.legacy.handshake",
+        "peekOfCode": "def check_response(headers: Headers, key: str) -> None:\n    \"\"\"\n    Check a handshake response received from the server.\n    This function doesn't verify that the response is an HTTP/1.1 or higher\n    response with a 101 status code. These controls are the responsibility of\n    the caller.\n    :param headers: response headers\n    :param key: comes from :func:`build_request`\n    :raises ~websockets.exceptions.InvalidHandshake: if the handshake response\n        is invalid",
+        "detail": "JS.myproject.myproject.websockets.legacy.handshake",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.legacy.handshake",
+        "description": "JS.myproject.myproject.websockets.legacy.handshake",
+        "peekOfCode": "__all__ = [\"build_request\", \"check_request\", \"build_response\", \"check_response\"]\ndef build_request(headers: Headers) -> str:\n    \"\"\"\n    Build a handshake request to send to the server.\n    Update request headers passed in argument.\n    :param headers: request headers\n    :returns: ``key`` which must be passed to :func:`check_response`\n    \"\"\"\n    key = generate_key()\n    headers[\"Upgrade\"] = \"websocket\"",
+        "detail": "JS.myproject.myproject.websockets.legacy.handshake",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.legacy.http",
+        "description": "JS.myproject.myproject.websockets.legacy.http",
+        "peekOfCode": "def d(value: bytes) -> str:\n    \"\"\"\n    Decode a bytestring for interpolating into an error message.\n    \"\"\"\n    return value.decode(errors=\"backslashreplace\")\n# See https://tools.ietf.org/html/rfc7230#appendix-B.\n# Regex for validating header names.\n_token_re = re.compile(rb\"[-!#$%&\\'*+.^_`|~0-9a-zA-Z]+\")\n# Regex for validating header values.\n# We don't attempt to support obsolete line folding.",
+        "detail": "JS.myproject.myproject.websockets.legacy.http",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.legacy.http",
+        "description": "JS.myproject.myproject.websockets.legacy.http",
+        "peekOfCode": "__all__ = [\"read_request\", \"read_response\"]\nMAX_HEADERS = 256\nMAX_LINE = 4110\ndef d(value: bytes) -> str:\n    \"\"\"\n    Decode a bytestring for interpolating into an error message.\n    \"\"\"\n    return value.decode(errors=\"backslashreplace\")\n# See https://tools.ietf.org/html/rfc7230#appendix-B.\n# Regex for validating header names.",
+        "detail": "JS.myproject.myproject.websockets.legacy.http",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_HEADERS",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.legacy.http",
+        "description": "JS.myproject.myproject.websockets.legacy.http",
+        "peekOfCode": "MAX_HEADERS = 256\nMAX_LINE = 4110\ndef d(value: bytes) -> str:\n    \"\"\"\n    Decode a bytestring for interpolating into an error message.\n    \"\"\"\n    return value.decode(errors=\"backslashreplace\")\n# See https://tools.ietf.org/html/rfc7230#appendix-B.\n# Regex for validating header names.\n_token_re = re.compile(rb\"[-!#$%&\\'*+.^_`|~0-9a-zA-Z]+\")",
+        "detail": "JS.myproject.myproject.websockets.legacy.http",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_LINE",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.legacy.http",
+        "description": "JS.myproject.myproject.websockets.legacy.http",
+        "peekOfCode": "MAX_LINE = 4110\ndef d(value: bytes) -> str:\n    \"\"\"\n    Decode a bytestring for interpolating into an error message.\n    \"\"\"\n    return value.decode(errors=\"backslashreplace\")\n# See https://tools.ietf.org/html/rfc7230#appendix-B.\n# Regex for validating header names.\n_token_re = re.compile(rb\"[-!#$%&\\'*+.^_`|~0-9a-zA-Z]+\")\n# Regex for validating header values.",
+        "detail": "JS.myproject.myproject.websockets.legacy.http",
+        "documentation": {}
+    },
+    {
+        "label": "_token_re",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.legacy.http",
+        "description": "JS.myproject.myproject.websockets.legacy.http",
+        "peekOfCode": "_token_re = re.compile(rb\"[-!#$%&\\'*+.^_`|~0-9a-zA-Z]+\")\n# Regex for validating header values.\n# We don't attempt to support obsolete line folding.\n# Include HTAB (\\x09), SP (\\x20), VCHAR (\\x21-\\x7e), obs-text (\\x80-\\xff).\n# The ABNF is complicated because it attempts to express that optional\n# whitespace is ignored. We strip whitespace and don't revalidate that.\n# See also https://www.rfc-editor.org/errata_search.php?rfc=7230&eid=4189\n_value_re = re.compile(rb\"[\\x09\\x20-\\x7e\\x80-\\xff]*\")\nasync def read_request(stream: asyncio.StreamReader) -> Tuple[str, Headers]:\n    \"\"\"",
+        "detail": "JS.myproject.myproject.websockets.legacy.http",
+        "documentation": {}
+    },
+    {
+        "label": "_value_re",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.legacy.http",
+        "description": "JS.myproject.myproject.websockets.legacy.http",
+        "peekOfCode": "_value_re = re.compile(rb\"[\\x09\\x20-\\x7e\\x80-\\xff]*\")\nasync def read_request(stream: asyncio.StreamReader) -> Tuple[str, Headers]:\n    \"\"\"\n    Read an HTTP/1.1 GET request and return ``(path, headers)``.\n    ``path`` isn't URL-decoded or validated in any way.\n    ``path`` and ``headers`` are expected to contain only ASCII characters.\n    Other characters are represented with surrogate escapes.\n    :func:`read_request` doesn't attempt to read the request body because\n    WebSocket handshake requests don't have one. If the request contains a\n    body, it may be read from ``stream`` after this coroutine returns.",
+        "detail": "JS.myproject.myproject.websockets.legacy.http",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.legacy.protocol",
+        "description": "JS.myproject.myproject.websockets.legacy.protocol",
+        "peekOfCode": "class State(enum.IntEnum):\n    CONNECTING, OPEN, CLOSING, CLOSED = range(4)\n# In order to ensure consistency, the code always checks the current value of\n# WebSocketCommonProtocol.state before assigning a new value and never yields\n# between the check and the assignment.\nclass WebSocketCommonProtocol(asyncio.Protocol):\n    \"\"\"\n    :class:`~asyncio.Protocol` subclass implementing the data transfer phase.\n    Once the WebSocket connection is established, during the data transfer\n    phase, the protocol is almost symmetrical between the server side and the",
+        "detail": "JS.myproject.myproject.websockets.legacy.protocol",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocketCommonProtocol",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.legacy.protocol",
+        "description": "JS.myproject.myproject.websockets.legacy.protocol",
+        "peekOfCode": "class WebSocketCommonProtocol(asyncio.Protocol):\n    \"\"\"\n    :class:`~asyncio.Protocol` subclass implementing the data transfer phase.\n    Once the WebSocket connection is established, during the data transfer\n    phase, the protocol is almost symmetrical between the server side and the\n    client side. :class:`WebSocketCommonProtocol` implements logic that's\n    shared between servers and clients.\n    Subclasses such as\n    :class:`~websockets.legacy.server.WebSocketServerProtocol` and\n    :class:`~websockets.legacy.client.WebSocketClientProtocol` implement the",
+        "detail": "JS.myproject.myproject.websockets.legacy.protocol",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.legacy.protocol",
+        "description": "JS.myproject.myproject.websockets.legacy.protocol",
+        "peekOfCode": "__all__ = [\"WebSocketCommonProtocol\"]\nlogger = logging.getLogger(\"websockets.protocol\")\n# A WebSocket connection goes through the following four states, in order:\nclass State(enum.IntEnum):\n    CONNECTING, OPEN, CLOSING, CLOSED = range(4)\n# In order to ensure consistency, the code always checks the current value of\n# WebSocketCommonProtocol.state before assigning a new value and never yields\n# between the check and the assignment.\nclass WebSocketCommonProtocol(asyncio.Protocol):\n    \"\"\"",
+        "detail": "JS.myproject.myproject.websockets.legacy.protocol",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.legacy.protocol",
+        "description": "JS.myproject.myproject.websockets.legacy.protocol",
+        "peekOfCode": "logger = logging.getLogger(\"websockets.protocol\")\n# A WebSocket connection goes through the following four states, in order:\nclass State(enum.IntEnum):\n    CONNECTING, OPEN, CLOSING, CLOSED = range(4)\n# In order to ensure consistency, the code always checks the current value of\n# WebSocketCommonProtocol.state before assigning a new value and never yields\n# between the check and the assignment.\nclass WebSocketCommonProtocol(asyncio.Protocol):\n    \"\"\"\n    :class:`~asyncio.Protocol` subclass implementing the data transfer phase.",
+        "detail": "JS.myproject.myproject.websockets.legacy.protocol",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocketServerProtocol",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.legacy.server",
+        "description": "JS.myproject.myproject.websockets.legacy.server",
+        "peekOfCode": "class WebSocketServerProtocol(WebSocketCommonProtocol):\n    \"\"\"\n    :class:`~asyncio.Protocol` subclass implementing a WebSocket server.\n    :class:`WebSocketServerProtocol`:\n    * performs the opening handshake to establish the connection;\n    * provides :meth:`recv` and :meth:`send` coroutines for receiving and\n      sending messages;\n    * deals with control frames automatically;\n    * performs the closing handshake to terminate the connection.\n    You may customize the opening handshake by subclassing",
+        "detail": "JS.myproject.myproject.websockets.legacy.server",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocketServer",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.legacy.server",
+        "description": "JS.myproject.myproject.websockets.legacy.server",
+        "peekOfCode": "class WebSocketServer:\n    \"\"\"\n    WebSocket server returned by :func:`serve`.\n    This class provides the same interface as\n    :class:`~asyncio.AbstractServer`, namely the\n    :meth:`~asyncio.AbstractServer.close` and\n    :meth:`~asyncio.AbstractServer.wait_closed` methods.\n    It keeps track of WebSocket connections in order to close them properly\n    when shutting down.\n    Instances of this class store a reference to the :class:`~asyncio.Server`",
+        "detail": "JS.myproject.myproject.websockets.legacy.server",
+        "documentation": {}
+    },
+    {
+        "label": "Serve",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.legacy.server",
+        "description": "JS.myproject.myproject.websockets.legacy.server",
+        "peekOfCode": "class Serve:\n    \"\"\"\n    Create, start, and return a WebSocket server on ``host`` and ``port``.\n    Whenever a client connects, the server accepts the connection, creates a\n    :class:`WebSocketServerProtocol`, performs the opening handshake, and\n    delegates to the connection handler defined by ``ws_handler``. Once the\n    handler completes, either normally or with an exception, the server\n    performs the closing handshake and closes the connection.\n    Awaiting :func:`serve` yields a :class:`WebSocketServer`. This instance\n    provides :meth:`~WebSocketServer.close` and",
+        "detail": "JS.myproject.myproject.websockets.legacy.server",
+        "documentation": {}
+    },
+    {
+        "label": "unix_serve",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.legacy.server",
+        "description": "JS.myproject.myproject.websockets.legacy.server",
+        "peekOfCode": "def unix_serve(\n    ws_handler: Callable[[WebSocketServerProtocol, str], Awaitable[Any]],\n    path: Optional[str] = None,\n    **kwargs: Any,\n) -> Serve:\n    \"\"\"\n    Similar to :func:`serve`, but for listening on Unix sockets.\n    This function calls the event loop's\n    :meth:`~asyncio.loop.create_unix_server` method.\n    It is only available on Unix.",
+        "detail": "JS.myproject.myproject.websockets.legacy.server",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.legacy.server",
+        "description": "JS.myproject.myproject.websockets.legacy.server",
+        "peekOfCode": "__all__ = [\"serve\", \"unix_serve\", \"WebSocketServerProtocol\", \"WebSocketServer\"]\nlogger = logging.getLogger(\"websockets.server\")\nHeadersLikeOrCallable = Union[HeadersLike, Callable[[str, Headers], HeadersLike]]\nHTTPResponse = Tuple[http.HTTPStatus, HeadersLike, bytes]\nclass WebSocketServerProtocol(WebSocketCommonProtocol):\n    \"\"\"\n    :class:`~asyncio.Protocol` subclass implementing a WebSocket server.\n    :class:`WebSocketServerProtocol`:\n    * performs the opening handshake to establish the connection;\n    * provides :meth:`recv` and :meth:`send` coroutines for receiving and",
+        "detail": "JS.myproject.myproject.websockets.legacy.server",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.legacy.server",
+        "description": "JS.myproject.myproject.websockets.legacy.server",
+        "peekOfCode": "logger = logging.getLogger(\"websockets.server\")\nHeadersLikeOrCallable = Union[HeadersLike, Callable[[str, Headers], HeadersLike]]\nHTTPResponse = Tuple[http.HTTPStatus, HeadersLike, bytes]\nclass WebSocketServerProtocol(WebSocketCommonProtocol):\n    \"\"\"\n    :class:`~asyncio.Protocol` subclass implementing a WebSocket server.\n    :class:`WebSocketServerProtocol`:\n    * performs the opening handshake to establish the connection;\n    * provides :meth:`recv` and :meth:`send` coroutines for receiving and\n      sending messages;",
+        "detail": "JS.myproject.myproject.websockets.legacy.server",
+        "documentation": {}
+    },
+    {
+        "label": "HeadersLikeOrCallable",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.legacy.server",
+        "description": "JS.myproject.myproject.websockets.legacy.server",
+        "peekOfCode": "HeadersLikeOrCallable = Union[HeadersLike, Callable[[str, Headers], HeadersLike]]\nHTTPResponse = Tuple[http.HTTPStatus, HeadersLike, bytes]\nclass WebSocketServerProtocol(WebSocketCommonProtocol):\n    \"\"\"\n    :class:`~asyncio.Protocol` subclass implementing a WebSocket server.\n    :class:`WebSocketServerProtocol`:\n    * performs the opening handshake to establish the connection;\n    * provides :meth:`recv` and :meth:`send` coroutines for receiving and\n      sending messages;\n    * deals with control frames automatically;",
+        "detail": "JS.myproject.myproject.websockets.legacy.server",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPResponse",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.legacy.server",
+        "description": "JS.myproject.myproject.websockets.legacy.server",
+        "peekOfCode": "HTTPResponse = Tuple[http.HTTPStatus, HeadersLike, bytes]\nclass WebSocketServerProtocol(WebSocketCommonProtocol):\n    \"\"\"\n    :class:`~asyncio.Protocol` subclass implementing a WebSocket server.\n    :class:`WebSocketServerProtocol`:\n    * performs the opening handshake to establish the connection;\n    * provides :meth:`recv` and :meth:`send` coroutines for receiving and\n      sending messages;\n    * deals with control frames automatically;\n    * performs the closing handshake to terminate the connection.",
+        "detail": "JS.myproject.myproject.websockets.legacy.server",
+        "documentation": {}
+    },
+    {
+        "label": "serve",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.legacy.server",
+        "description": "JS.myproject.myproject.websockets.legacy.server",
+        "peekOfCode": "serve = Serve\ndef unix_serve(\n    ws_handler: Callable[[WebSocketServerProtocol, str], Awaitable[Any]],\n    path: Optional[str] = None,\n    **kwargs: Any,\n) -> Serve:\n    \"\"\"\n    Similar to :func:`serve`, but for listening on Unix sockets.\n    This function calls the event loop's\n    :meth:`~asyncio.loop.create_unix_server` method.",
+        "detail": "JS.myproject.myproject.websockets.legacy.server",
+        "documentation": {}
+    },
+    {
+        "label": "ClientConnection",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.client",
+        "description": "JS.myproject.myproject.websockets.client",
+        "peekOfCode": "class ClientConnection(Connection):\n    def __init__(\n        self,\n        uri: str,\n        origin: Optional[Origin] = None,\n        extensions: Optional[Sequence[ClientExtensionFactory]] = None,\n        subprotocols: Optional[Sequence[Subprotocol]] = None,\n        extra_headers: Optional[HeadersLike] = None,\n        max_size: Optional[int] = 2 ** 20,\n    ):",
+        "detail": "JS.myproject.myproject.websockets.client",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.client",
+        "description": "JS.myproject.myproject.websockets.client",
+        "peekOfCode": "__all__ = [\"ClientConnection\"]\nlogger = logging.getLogger(__name__)\nclass ClientConnection(Connection):\n    def __init__(\n        self,\n        uri: str,\n        origin: Optional[Origin] = None,\n        extensions: Optional[Sequence[ClientExtensionFactory]] = None,\n        subprotocols: Optional[Sequence[Subprotocol]] = None,\n        extra_headers: Optional[HeadersLike] = None,",
+        "detail": "JS.myproject.myproject.websockets.client",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.client",
+        "description": "JS.myproject.myproject.websockets.client",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass ClientConnection(Connection):\n    def __init__(\n        self,\n        uri: str,\n        origin: Optional[Origin] = None,\n        extensions: Optional[Sequence[ClientExtensionFactory]] = None,\n        subprotocols: Optional[Sequence[Subprotocol]] = None,\n        extra_headers: Optional[HeadersLike] = None,\n        max_size: Optional[int] = 2 ** 20,",
+        "detail": "JS.myproject.myproject.websockets.client",
+        "documentation": {}
+    },
+    {
+        "label": "Side",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.connection",
+        "description": "JS.myproject.myproject.websockets.connection",
+        "peekOfCode": "class Side(enum.IntEnum):\n    SERVER, CLIENT = range(2)\nSERVER = Side.SERVER\nCLIENT = Side.CLIENT\n# A WebSocket connection goes through the following four states, in order:\nclass State(enum.IntEnum):\n    CONNECTING, OPEN, CLOSING, CLOSED = range(4)\nCONNECTING = State.CONNECTING\nOPEN = State.OPEN\nCLOSING = State.CLOSING",
+        "detail": "JS.myproject.myproject.websockets.connection",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.connection",
+        "description": "JS.myproject.myproject.websockets.connection",
+        "peekOfCode": "class State(enum.IntEnum):\n    CONNECTING, OPEN, CLOSING, CLOSED = range(4)\nCONNECTING = State.CONNECTING\nOPEN = State.OPEN\nCLOSING = State.CLOSING\nCLOSED = State.CLOSED\n# Sentinel to signal that the connection should be closed.\nSEND_EOF = b\"\"\nclass Connection:\n    def __init__(",
+        "detail": "JS.myproject.myproject.websockets.connection",
+        "documentation": {}
+    },
+    {
+        "label": "Connection",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.connection",
+        "description": "JS.myproject.myproject.websockets.connection",
+        "peekOfCode": "class Connection:\n    def __init__(\n        self,\n        side: Side,\n        state: State = OPEN,\n        max_size: Optional[int] = 2 ** 20,\n    ) -> None:\n        # Connection side. CLIENT or SERVER.\n        self.side = side\n        # Connnection state. CONNECTING and CLOSED states are handled in subclasses.",
+        "detail": "JS.myproject.myproject.websockets.connection",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.connection",
+        "description": "JS.myproject.myproject.websockets.connection",
+        "peekOfCode": "__all__ = [\n    \"Connection\",\n    \"Side\",\n    \"State\",\n    \"SEND_EOF\",\n]\nlogger = logging.getLogger(__name__)\nEvent = Union[Request, Response, Frame]\n# A WebSocket connection is either a server or a client.\nclass Side(enum.IntEnum):",
+        "detail": "JS.myproject.myproject.websockets.connection",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.connection",
+        "description": "JS.myproject.myproject.websockets.connection",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nEvent = Union[Request, Response, Frame]\n# A WebSocket connection is either a server or a client.\nclass Side(enum.IntEnum):\n    SERVER, CLIENT = range(2)\nSERVER = Side.SERVER\nCLIENT = Side.CLIENT\n# A WebSocket connection goes through the following four states, in order:\nclass State(enum.IntEnum):",
+        "detail": "JS.myproject.myproject.websockets.connection",
+        "documentation": {}
+    },
+    {
+        "label": "Event",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.connection",
+        "description": "JS.myproject.myproject.websockets.connection",
+        "peekOfCode": "Event = Union[Request, Response, Frame]\n# A WebSocket connection is either a server or a client.\nclass Side(enum.IntEnum):\n    SERVER, CLIENT = range(2)\nSERVER = Side.SERVER\nCLIENT = Side.CLIENT\n# A WebSocket connection goes through the following four states, in order:\nclass State(enum.IntEnum):\n    CONNECTING, OPEN, CLOSING, CLOSED = range(4)",
+        "detail": "JS.myproject.myproject.websockets.connection",
+        "documentation": {}
+    },
+    {
+        "label": "SERVER",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.connection",
+        "description": "JS.myproject.myproject.websockets.connection",
+        "peekOfCode": "SERVER = Side.SERVER\nCLIENT = Side.CLIENT\n# A WebSocket connection goes through the following four states, in order:\nclass State(enum.IntEnum):\n    CONNECTING, OPEN, CLOSING, CLOSED = range(4)\nCONNECTING = State.CONNECTING\nOPEN = State.OPEN\nCLOSING = State.CLOSING\nCLOSED = State.CLOSED\n# Sentinel to signal that the connection should be closed.",
+        "detail": "JS.myproject.myproject.websockets.connection",
+        "documentation": {}
+    },
+    {
+        "label": "CLIENT",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.connection",
+        "description": "JS.myproject.myproject.websockets.connection",
+        "peekOfCode": "CLIENT = Side.CLIENT\n# A WebSocket connection goes through the following four states, in order:\nclass State(enum.IntEnum):\n    CONNECTING, OPEN, CLOSING, CLOSED = range(4)\nCONNECTING = State.CONNECTING\nOPEN = State.OPEN\nCLOSING = State.CLOSING\nCLOSED = State.CLOSED\n# Sentinel to signal that the connection should be closed.\nSEND_EOF = b\"\"",
+        "detail": "JS.myproject.myproject.websockets.connection",
+        "documentation": {}
+    },
+    {
+        "label": "CONNECTING",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.connection",
+        "description": "JS.myproject.myproject.websockets.connection",
+        "peekOfCode": "CONNECTING = State.CONNECTING\nOPEN = State.OPEN\nCLOSING = State.CLOSING\nCLOSED = State.CLOSED\n# Sentinel to signal that the connection should be closed.\nSEND_EOF = b\"\"\nclass Connection:\n    def __init__(\n        self,\n        side: Side,",
+        "detail": "JS.myproject.myproject.websockets.connection",
+        "documentation": {}
+    },
+    {
+        "label": "OPEN",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.connection",
+        "description": "JS.myproject.myproject.websockets.connection",
+        "peekOfCode": "OPEN = State.OPEN\nCLOSING = State.CLOSING\nCLOSED = State.CLOSED\n# Sentinel to signal that the connection should be closed.\nSEND_EOF = b\"\"\nclass Connection:\n    def __init__(\n        self,\n        side: Side,\n        state: State = OPEN,",
+        "detail": "JS.myproject.myproject.websockets.connection",
+        "documentation": {}
+    },
+    {
+        "label": "CLOSING",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.connection",
+        "description": "JS.myproject.myproject.websockets.connection",
+        "peekOfCode": "CLOSING = State.CLOSING\nCLOSED = State.CLOSED\n# Sentinel to signal that the connection should be closed.\nSEND_EOF = b\"\"\nclass Connection:\n    def __init__(\n        self,\n        side: Side,\n        state: State = OPEN,\n        max_size: Optional[int] = 2 ** 20,",
+        "detail": "JS.myproject.myproject.websockets.connection",
+        "documentation": {}
+    },
+    {
+        "label": "CLOSED",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.connection",
+        "description": "JS.myproject.myproject.websockets.connection",
+        "peekOfCode": "CLOSED = State.CLOSED\n# Sentinel to signal that the connection should be closed.\nSEND_EOF = b\"\"\nclass Connection:\n    def __init__(\n        self,\n        side: Side,\n        state: State = OPEN,\n        max_size: Optional[int] = 2 ** 20,\n    ) -> None:",
+        "detail": "JS.myproject.myproject.websockets.connection",
+        "documentation": {}
+    },
+    {
+        "label": "SEND_EOF",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.connection",
+        "description": "JS.myproject.myproject.websockets.connection",
+        "peekOfCode": "SEND_EOF = b\"\"\nclass Connection:\n    def __init__(\n        self,\n        side: Side,\n        state: State = OPEN,\n        max_size: Optional[int] = 2 ** 20,\n    ) -> None:\n        # Connection side. CLIENT or SERVER.\n        self.side = side",
+        "detail": "JS.myproject.myproject.websockets.connection",
+        "documentation": {}
+    },
+    {
+        "label": "MultipleValuesError",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.datastructures",
+        "description": "JS.myproject.myproject.websockets.datastructures",
+        "peekOfCode": "class MultipleValuesError(LookupError):\n    \"\"\"\n    Exception raised when :class:`Headers` has more than one value for a key.\n    \"\"\"\n    def __str__(self) -> str:\n        # Implement the same logic as KeyError_str in Objects/exceptions.c.\n        if len(self.args) == 1:\n            return repr(self.args[0])\n        return super().__str__()\nclass Headers(MutableMapping[str, str]):",
+        "detail": "JS.myproject.myproject.websockets.datastructures",
+        "documentation": {}
+    },
+    {
+        "label": "Headers",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.datastructures",
+        "description": "JS.myproject.myproject.websockets.datastructures",
+        "peekOfCode": "class Headers(MutableMapping[str, str]):\n    \"\"\"\n    Efficient data structure for manipulating HTTP headers.\n    A :class:`list` of ``(name, values)`` is inefficient for lookups.\n    A :class:`dict` doesn't suffice because header names are case-insensitive\n    and multiple occurrences of headers with the same name are possible.\n    :class:`Headers` stores HTTP headers in a hybrid data structure to provide\n    efficient insertions and lookups while preserving the original data.\n    In order to account for multiple values with minimal hassle,\n    :class:`Headers` follows this logic:",
+        "detail": "JS.myproject.myproject.websockets.datastructures",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.datastructures",
+        "description": "JS.myproject.myproject.websockets.datastructures",
+        "peekOfCode": "__all__ = [\"Headers\", \"HeadersLike\", \"MultipleValuesError\"]\nclass MultipleValuesError(LookupError):\n    \"\"\"\n    Exception raised when :class:`Headers` has more than one value for a key.\n    \"\"\"\n    def __str__(self) -> str:\n        # Implement the same logic as KeyError_str in Objects/exceptions.c.\n        if len(self.args) == 1:\n            return repr(self.args[0])\n        return super().__str__()",
+        "detail": "JS.myproject.myproject.websockets.datastructures",
+        "documentation": {}
+    },
+    {
+        "label": "HeadersLike",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.datastructures",
+        "description": "JS.myproject.myproject.websockets.datastructures",
+        "peekOfCode": "HeadersLike = Union[Headers, Mapping[str, str], Iterable[Tuple[str, str]]]\nHeadersLike__doc__ = \"\"\"Types accepted wherever :class:`Headers` is expected\"\"\"\n# Remove try / except when dropping support for Python < 3.7\ntry:\n    HeadersLike.__doc__ = HeadersLike__doc__\nexcept AttributeError:  # pragma: no cover\n    pass",
+        "detail": "JS.myproject.myproject.websockets.datastructures",
+        "documentation": {}
+    },
+    {
+        "label": "HeadersLike__doc__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.datastructures",
+        "description": "JS.myproject.myproject.websockets.datastructures",
+        "peekOfCode": "HeadersLike__doc__ = \"\"\"Types accepted wherever :class:`Headers` is expected\"\"\"\n# Remove try / except when dropping support for Python < 3.7\ntry:\n    HeadersLike.__doc__ = HeadersLike__doc__\nexcept AttributeError:  # pragma: no cover\n    pass",
+        "detail": "JS.myproject.myproject.websockets.datastructures",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocketException",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class WebSocketException(Exception):\n    \"\"\"\n    Base class for all exceptions defined by :mod:`websockets`.\n    \"\"\"\n# See https://www.iana.org/assignments/websocket/websocket.xhtml\nCLOSE_CODES = {\n    1000: \"OK\",\n    1001: \"going away\",\n    1002: \"protocol error\",\n    1003: \"unsupported type\",",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionClosed",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class ConnectionClosed(WebSocketException):\n    \"\"\"\n    Raised when trying to interact with a closed connection.\n    Provides the connection close code and reason in its ``code`` and\n    ``reason`` attributes respectively.\n    \"\"\"\n    def __init__(self, code: int, reason: str) -> None:\n        self.code = code\n        self.reason = reason\n        super().__init__(format_close(code, reason))",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionClosedError",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class ConnectionClosedError(ConnectionClosed):\n    \"\"\"\n    Like :exc:`ConnectionClosed`, when the connection terminated with an error.\n    This means the close code is different from 1000 (OK) and 1001 (going away).\n    \"\"\"\n    def __init__(self, code: int, reason: str) -> None:\n        assert code != 1000 and code != 1001\n        super().__init__(code, reason)\nclass ConnectionClosedOK(ConnectionClosed):\n    \"\"\"",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionClosedOK",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class ConnectionClosedOK(ConnectionClosed):\n    \"\"\"\n    Like :exc:`ConnectionClosed`, when the connection terminated properly.\n    This means the close code is 1000 (OK) or 1001 (going away).\n    \"\"\"\n    def __init__(self, code: int, reason: str) -> None:\n        assert code == 1000 or code == 1001\n        super().__init__(code, reason)\nclass InvalidHandshake(WebSocketException):\n    \"\"\"",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidHandshake",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class InvalidHandshake(WebSocketException):\n    \"\"\"\n    Raised during the handshake when the WebSocket connection fails.\n    \"\"\"\nclass SecurityError(InvalidHandshake):\n    \"\"\"\n    Raised when a handshake request or response breaks a security rule.\n    Security limits are hard coded.\n    \"\"\"\nclass InvalidMessage(InvalidHandshake):",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "SecurityError",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class SecurityError(InvalidHandshake):\n    \"\"\"\n    Raised when a handshake request or response breaks a security rule.\n    Security limits are hard coded.\n    \"\"\"\nclass InvalidMessage(InvalidHandshake):\n    \"\"\"\n    Raised when a handshake request or response is malformed.\n    \"\"\"\nclass InvalidHeader(InvalidHandshake):",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidMessage",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class InvalidMessage(InvalidHandshake):\n    \"\"\"\n    Raised when a handshake request or response is malformed.\n    \"\"\"\nclass InvalidHeader(InvalidHandshake):\n    \"\"\"\n    Raised when a HTTP header doesn't have a valid format or value.\n    \"\"\"\n    def __init__(self, name: str, value: Optional[str] = None) -> None:\n        self.name = name",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidHeader",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class InvalidHeader(InvalidHandshake):\n    \"\"\"\n    Raised when a HTTP header doesn't have a valid format or value.\n    \"\"\"\n    def __init__(self, name: str, value: Optional[str] = None) -> None:\n        self.name = name\n        self.value = value\n        if value is None:\n            message = f\"missing {name} header\"\n        elif value == \"\":",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidHeaderFormat",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class InvalidHeaderFormat(InvalidHeader):\n    \"\"\"\n    Raised when a HTTP header cannot be parsed.\n    The format of the header doesn't match the grammar for that header.\n    \"\"\"\n    def __init__(self, name: str, error: str, header: str, pos: int) -> None:\n        self.name = name\n        error = f\"{error} at {pos} in {header}\"\n        super().__init__(name, error)\nclass InvalidHeaderValue(InvalidHeader):",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidHeaderValue",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class InvalidHeaderValue(InvalidHeader):\n    \"\"\"\n    Raised when a HTTP header has a wrong value.\n    The format of the header is correct but a value isn't acceptable.\n    \"\"\"\nclass InvalidOrigin(InvalidHeader):\n    \"\"\"\n    Raised when the Origin header in a request isn't allowed.\n    \"\"\"\n    def __init__(self, origin: Optional[str]) -> None:",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidOrigin",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class InvalidOrigin(InvalidHeader):\n    \"\"\"\n    Raised when the Origin header in a request isn't allowed.\n    \"\"\"\n    def __init__(self, origin: Optional[str]) -> None:\n        super().__init__(\"Origin\", origin)\nclass InvalidUpgrade(InvalidHeader):\n    \"\"\"\n    Raised when the Upgrade or Connection header isn't correct.\n    \"\"\"",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidUpgrade",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class InvalidUpgrade(InvalidHeader):\n    \"\"\"\n    Raised when the Upgrade or Connection header isn't correct.\n    \"\"\"\nclass InvalidStatusCode(InvalidHandshake):\n    \"\"\"\n    Raised when a handshake response status code is invalid.\n    The integer status code is available in the ``status_code`` attribute.\n    \"\"\"\n    def __init__(self, status_code: int) -> None:",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidStatusCode",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class InvalidStatusCode(InvalidHandshake):\n    \"\"\"\n    Raised when a handshake response status code is invalid.\n    The integer status code is available in the ``status_code`` attribute.\n    \"\"\"\n    def __init__(self, status_code: int) -> None:\n        self.status_code = status_code\n        message = f\"server rejected WebSocket connection: HTTP {status_code}\"\n        super().__init__(message)\nclass NegotiationError(InvalidHandshake):",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NegotiationError",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class NegotiationError(InvalidHandshake):\n    \"\"\"\n    Raised when negotiating an extension fails.\n    \"\"\"\nclass DuplicateParameter(NegotiationError):\n    \"\"\"\n    Raised when a parameter name is repeated in an extension header.\n    \"\"\"\n    def __init__(self, name: str) -> None:\n        self.name = name",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "DuplicateParameter",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class DuplicateParameter(NegotiationError):\n    \"\"\"\n    Raised when a parameter name is repeated in an extension header.\n    \"\"\"\n    def __init__(self, name: str) -> None:\n        self.name = name\n        message = f\"duplicate parameter: {name}\"\n        super().__init__(message)\nclass InvalidParameterName(NegotiationError):\n    \"\"\"",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidParameterName",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class InvalidParameterName(NegotiationError):\n    \"\"\"\n    Raised when a parameter name in an extension header is invalid.\n    \"\"\"\n    def __init__(self, name: str) -> None:\n        self.name = name\n        message = f\"invalid parameter name: {name}\"\n        super().__init__(message)\nclass InvalidParameterValue(NegotiationError):\n    \"\"\"",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidParameterValue",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class InvalidParameterValue(NegotiationError):\n    \"\"\"\n    Raised when a parameter value in an extension header is invalid.\n    \"\"\"\n    def __init__(self, name: str, value: Optional[str]) -> None:\n        self.name = name\n        self.value = value\n        if value is None:\n            message = f\"missing value for parameter {name}\"\n        elif value == \"\":",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "AbortHandshake",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class AbortHandshake(InvalidHandshake):\n    \"\"\"\n    Raised to abort the handshake on purpose and return a HTTP response.\n    This exception is an implementation detail.\n    The public API is :meth:`~legacy.server.WebSocketServerProtocol.process_request`.\n    \"\"\"\n    def __init__(\n        self,\n        status: http.HTTPStatus,\n        headers: HeadersLike,",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "RedirectHandshake",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class RedirectHandshake(InvalidHandshake):\n    \"\"\"\n    Raised when a handshake gets redirected.\n    This exception is an implementation detail.\n    \"\"\"\n    def __init__(self, uri: str) -> None:\n        self.uri = uri\n    def __str__(self) -> str:\n        return f\"redirect to {self.uri}\"\nclass InvalidState(WebSocketException, AssertionError):",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidState",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class InvalidState(WebSocketException, AssertionError):\n    \"\"\"\n    Raised when an operation is forbidden in the current state.\n    This exception is an implementation detail.\n    It should never be raised in normal circumstances.\n    \"\"\"\nclass InvalidURI(WebSocketException):\n    \"\"\"\n    Raised when connecting to an URI that isn't a valid WebSocket URI.\n    \"\"\"",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidURI",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class InvalidURI(WebSocketException):\n    \"\"\"\n    Raised when connecting to an URI that isn't a valid WebSocket URI.\n    \"\"\"\n    def __init__(self, uri: str) -> None:\n        self.uri = uri\n        message = \"{} isn't a valid URI\".format(uri)\n        super().__init__(message)\nclass PayloadTooBig(WebSocketException):\n    \"\"\"",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "PayloadTooBig",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class PayloadTooBig(WebSocketException):\n    \"\"\"\n    Raised when receiving a frame with a payload exceeding the maximum size.\n    \"\"\"\nclass ProtocolError(WebSocketException):\n    \"\"\"\n    Raised when a frame breaks the protocol.\n    \"\"\"\nWebSocketProtocolError = ProtocolError  # for backwards compatibility",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ProtocolError",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "class ProtocolError(WebSocketException):\n    \"\"\"\n    Raised when a frame breaks the protocol.\n    \"\"\"\nWebSocketProtocolError = ProtocolError  # for backwards compatibility",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "format_close",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "def format_close(code: int, reason: str) -> str:\n    \"\"\"\n    Display a human-readable version of the close code and reason.\n    \"\"\"\n    if 3000 <= code < 4000:\n        explanation = \"registered\"\n    elif 4000 <= code < 5000:\n        explanation = \"private use\"\n    else:\n        explanation = CLOSE_CODES.get(code, \"unknown\")",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "__all__ = [\n    \"WebSocketException\",\n    \"ConnectionClosed\",\n    \"ConnectionClosedError\",\n    \"ConnectionClosedOK\",\n    \"InvalidHandshake\",\n    \"SecurityError\",\n    \"InvalidMessage\",\n    \"InvalidHeader\",\n    \"InvalidHeaderFormat\",",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "CLOSE_CODES",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "CLOSE_CODES = {\n    1000: \"OK\",\n    1001: \"going away\",\n    1002: \"protocol error\",\n    1003: \"unsupported type\",\n    # 1004 is reserved\n    1005: \"no status code [internal]\",\n    1006: \"connection closed abnormally [internal]\",\n    1007: \"invalid data\",\n    1008: \"policy violation\",",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocketProtocolError",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.exceptions",
+        "description": "JS.myproject.myproject.websockets.exceptions",
+        "peekOfCode": "WebSocketProtocolError = ProtocolError  # for backwards compatibility",
+        "detail": "JS.myproject.myproject.websockets.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "Opcode",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.frames",
+        "description": "JS.myproject.myproject.websockets.frames",
+        "peekOfCode": "class Opcode(enum.IntEnum):\n    CONT, TEXT, BINARY = 0x00, 0x01, 0x02\n    CLOSE, PING, PONG = 0x08, 0x09, 0x0A\nOP_CONT = Opcode.CONT\nOP_TEXT = Opcode.TEXT\nOP_BINARY = Opcode.BINARY\nOP_CLOSE = Opcode.CLOSE\nOP_PING = Opcode.PING\nOP_PONG = Opcode.PONG\nDATA_OPCODES = OP_CONT, OP_TEXT, OP_BINARY",
+        "detail": "JS.myproject.myproject.websockets.frames",
+        "documentation": {}
+    },
+    {
+        "label": "Frame",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.frames",
+        "description": "JS.myproject.myproject.websockets.frames",
+        "peekOfCode": "class Frame(NamedTuple):\n    \"\"\"\n    WebSocket frame.\n    :param bool fin: FIN bit\n    :param bool rsv1: RSV1 bit\n    :param bool rsv2: RSV2 bit\n    :param bool rsv3: RSV3 bit\n    :param int opcode: opcode\n    :param bytes data: payload data\n    Only these fields are needed. The MASK bit, payload length and masking-key",
+        "detail": "JS.myproject.myproject.websockets.frames",
+        "documentation": {}
+    },
+    {
+        "label": "prepare_data",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.frames",
+        "description": "JS.myproject.myproject.websockets.frames",
+        "peekOfCode": "def prepare_data(data: Data) -> Tuple[int, bytes]:\n    \"\"\"\n    Convert a string or byte-like object to an opcode and a bytes-like object.\n    This function is designed for data frames.\n    If ``data`` is a :class:`str`, return ``OP_TEXT`` and a :class:`bytes`\n    object encoding ``data`` in UTF-8.\n    If ``data`` is a bytes-like object, return ``OP_BINARY`` and a bytes-like\n    object.\n    :raises TypeError: if ``data`` doesn't have a supported type\n    \"\"\"",
+        "detail": "JS.myproject.myproject.websockets.frames",
+        "documentation": {}
+    },
+    {
+        "label": "prepare_ctrl",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.frames",
+        "description": "JS.myproject.myproject.websockets.frames",
+        "peekOfCode": "def prepare_ctrl(data: Data) -> bytes:\n    \"\"\"\n    Convert a string or byte-like object to bytes.\n    This function is designed for ping and pong frames.\n    If ``data`` is a :class:`str`, return a :class:`bytes` object encoding\n    ``data`` in UTF-8.\n    If ``data`` is a bytes-like object, return a :class:`bytes` object.\n    :raises TypeError: if ``data`` doesn't have a supported type\n    \"\"\"\n    if isinstance(data, str):",
+        "detail": "JS.myproject.myproject.websockets.frames",
+        "documentation": {}
+    },
+    {
+        "label": "parse_close",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.frames",
+        "description": "JS.myproject.myproject.websockets.frames",
+        "peekOfCode": "def parse_close(data: bytes) -> Tuple[int, str]:\n    \"\"\"\n    Parse the payload from a close frame.\n    Return ``(code, reason)``.\n    :raises ~websockets.exceptions.ProtocolError: if data is ill-formed\n    :raises UnicodeDecodeError: if the reason isn't valid UTF-8\n    \"\"\"\n    length = len(data)\n    if length >= 2:\n        (code,) = struct.unpack(\"!H\", data[:2])",
+        "detail": "JS.myproject.myproject.websockets.frames",
+        "documentation": {}
+    },
+    {
+        "label": "serialize_close",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.frames",
+        "description": "JS.myproject.myproject.websockets.frames",
+        "peekOfCode": "def serialize_close(code: int, reason: str) -> bytes:\n    \"\"\"\n    Serialize the payload for a close frame.\n    This is the reverse of :func:`parse_close`.\n    \"\"\"\n    check_close(code)\n    return struct.pack(\"!H\", code) + reason.encode(\"utf-8\")\ndef check_close(code: int) -> None:\n    \"\"\"\n    Check that the close code has an acceptable value for a close frame.",
+        "detail": "JS.myproject.myproject.websockets.frames",
+        "documentation": {}
+    },
+    {
+        "label": "check_close",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.frames",
+        "description": "JS.myproject.myproject.websockets.frames",
+        "peekOfCode": "def check_close(code: int) -> None:\n    \"\"\"\n    Check that the close code has an acceptable value for a close frame.\n    :raises ~websockets.exceptions.ProtocolError: if the close code\n        is invalid\n    \"\"\"\n    if not (code in EXTERNAL_CLOSE_CODES or 3000 <= code < 5000):\n        raise ProtocolError(\"invalid status code\")\n# at the bottom to allow circular import, because Extension depends on Frame\nfrom . import extensions  # isort:skip # noqa",
+        "detail": "JS.myproject.myproject.websockets.frames",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.frames",
+        "description": "JS.myproject.myproject.websockets.frames",
+        "peekOfCode": "__all__ = [\n    \"Opcode\",\n    \"OP_CONT\",\n    \"OP_TEXT\",\n    \"OP_BINARY\",\n    \"OP_CLOSE\",\n    \"OP_PING\",\n    \"OP_PONG\",\n    \"DATA_OPCODES\",\n    \"CTRL_OPCODES\",",
+        "detail": "JS.myproject.myproject.websockets.frames",
+        "documentation": {}
+    },
+    {
+        "label": "OP_CONT",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.frames",
+        "description": "JS.myproject.myproject.websockets.frames",
+        "peekOfCode": "OP_CONT = Opcode.CONT\nOP_TEXT = Opcode.TEXT\nOP_BINARY = Opcode.BINARY\nOP_CLOSE = Opcode.CLOSE\nOP_PING = Opcode.PING\nOP_PONG = Opcode.PONG\nDATA_OPCODES = OP_CONT, OP_TEXT, OP_BINARY\nCTRL_OPCODES = OP_CLOSE, OP_PING, OP_PONG\n# Close code that are allowed in a close frame.\n# Using a set optimizes `code in EXTERNAL_CLOSE_CODES`.",
+        "detail": "JS.myproject.myproject.websockets.frames",
+        "documentation": {}
+    },
+    {
+        "label": "OP_TEXT",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.frames",
+        "description": "JS.myproject.myproject.websockets.frames",
+        "peekOfCode": "OP_TEXT = Opcode.TEXT\nOP_BINARY = Opcode.BINARY\nOP_CLOSE = Opcode.CLOSE\nOP_PING = Opcode.PING\nOP_PONG = Opcode.PONG\nDATA_OPCODES = OP_CONT, OP_TEXT, OP_BINARY\nCTRL_OPCODES = OP_CLOSE, OP_PING, OP_PONG\n# Close code that are allowed in a close frame.\n# Using a set optimizes `code in EXTERNAL_CLOSE_CODES`.\nEXTERNAL_CLOSE_CODES = {",
+        "detail": "JS.myproject.myproject.websockets.frames",
+        "documentation": {}
+    },
+    {
+        "label": "OP_BINARY",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.frames",
+        "description": "JS.myproject.myproject.websockets.frames",
+        "peekOfCode": "OP_BINARY = Opcode.BINARY\nOP_CLOSE = Opcode.CLOSE\nOP_PING = Opcode.PING\nOP_PONG = Opcode.PONG\nDATA_OPCODES = OP_CONT, OP_TEXT, OP_BINARY\nCTRL_OPCODES = OP_CLOSE, OP_PING, OP_PONG\n# Close code that are allowed in a close frame.\n# Using a set optimizes `code in EXTERNAL_CLOSE_CODES`.\nEXTERNAL_CLOSE_CODES = {\n    1000,",
+        "detail": "JS.myproject.myproject.websockets.frames",
+        "documentation": {}
+    },
+    {
+        "label": "OP_CLOSE",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.frames",
+        "description": "JS.myproject.myproject.websockets.frames",
+        "peekOfCode": "OP_CLOSE = Opcode.CLOSE\nOP_PING = Opcode.PING\nOP_PONG = Opcode.PONG\nDATA_OPCODES = OP_CONT, OP_TEXT, OP_BINARY\nCTRL_OPCODES = OP_CLOSE, OP_PING, OP_PONG\n# Close code that are allowed in a close frame.\n# Using a set optimizes `code in EXTERNAL_CLOSE_CODES`.\nEXTERNAL_CLOSE_CODES = {\n    1000,\n    1001,",
+        "detail": "JS.myproject.myproject.websockets.frames",
+        "documentation": {}
+    },
+    {
+        "label": "OP_PING",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.frames",
+        "description": "JS.myproject.myproject.websockets.frames",
+        "peekOfCode": "OP_PING = Opcode.PING\nOP_PONG = Opcode.PONG\nDATA_OPCODES = OP_CONT, OP_TEXT, OP_BINARY\nCTRL_OPCODES = OP_CLOSE, OP_PING, OP_PONG\n# Close code that are allowed in a close frame.\n# Using a set optimizes `code in EXTERNAL_CLOSE_CODES`.\nEXTERNAL_CLOSE_CODES = {\n    1000,\n    1001,\n    1002,",
+        "detail": "JS.myproject.myproject.websockets.frames",
+        "documentation": {}
+    },
+    {
+        "label": "OP_PONG",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.frames",
+        "description": "JS.myproject.myproject.websockets.frames",
+        "peekOfCode": "OP_PONG = Opcode.PONG\nDATA_OPCODES = OP_CONT, OP_TEXT, OP_BINARY\nCTRL_OPCODES = OP_CLOSE, OP_PING, OP_PONG\n# Close code that are allowed in a close frame.\n# Using a set optimizes `code in EXTERNAL_CLOSE_CODES`.\nEXTERNAL_CLOSE_CODES = {\n    1000,\n    1001,\n    1002,\n    1003,",
+        "detail": "JS.myproject.myproject.websockets.frames",
+        "documentation": {}
+    },
+    {
+        "label": "DATA_OPCODES",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.frames",
+        "description": "JS.myproject.myproject.websockets.frames",
+        "peekOfCode": "DATA_OPCODES = OP_CONT, OP_TEXT, OP_BINARY\nCTRL_OPCODES = OP_CLOSE, OP_PING, OP_PONG\n# Close code that are allowed in a close frame.\n# Using a set optimizes `code in EXTERNAL_CLOSE_CODES`.\nEXTERNAL_CLOSE_CODES = {\n    1000,\n    1001,\n    1002,\n    1003,\n    1007,",
+        "detail": "JS.myproject.myproject.websockets.frames",
+        "documentation": {}
+    },
+    {
+        "label": "CTRL_OPCODES",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.frames",
+        "description": "JS.myproject.myproject.websockets.frames",
+        "peekOfCode": "CTRL_OPCODES = OP_CLOSE, OP_PING, OP_PONG\n# Close code that are allowed in a close frame.\n# Using a set optimizes `code in EXTERNAL_CLOSE_CODES`.\nEXTERNAL_CLOSE_CODES = {\n    1000,\n    1001,\n    1002,\n    1003,\n    1007,\n    1008,",
+        "detail": "JS.myproject.myproject.websockets.frames",
+        "documentation": {}
+    },
+    {
+        "label": "EXTERNAL_CLOSE_CODES",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.frames",
+        "description": "JS.myproject.myproject.websockets.frames",
+        "peekOfCode": "EXTERNAL_CLOSE_CODES = {\n    1000,\n    1001,\n    1002,\n    1003,\n    1007,\n    1008,\n    1009,\n    1010,\n    1011,",
+        "detail": "JS.myproject.myproject.websockets.frames",
+        "documentation": {}
+    },
+    {
+        "label": "peek_ahead",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def peek_ahead(header: str, pos: int) -> Optional[str]:\n    \"\"\"\n    Return the next character from ``header`` at the given position.\n    Return ``None`` at the end of ``header``.\n    We never need to peek more than one character ahead.\n    \"\"\"\n    return None if pos == len(header) else header[pos]\n_OWS_re = re.compile(r\"[\\t ]*\")\ndef parse_OWS(header: str, pos: int) -> int:\n    \"\"\"",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "parse_OWS",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def parse_OWS(header: str, pos: int) -> int:\n    \"\"\"\n    Parse optional whitespace from ``header`` at the given position.\n    Return the new position.\n    The whitespace itself isn't returned because it isn't significant.\n    \"\"\"\n    # There's always a match, possibly empty, whose content doesn't matter.\n    match = _OWS_re.match(header, pos)\n    assert match is not None\n    return match.end()",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "parse_token",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def parse_token(header: str, pos: int, header_name: str) -> Tuple[str, int]:\n    \"\"\"\n    Parse a token from ``header`` at the given position.\n    Return the token value and the new position.\n    :raises ~websockets.exceptions.InvalidHeaderFormat: on invalid inputs.\n    \"\"\"\n    match = _token_re.match(header, pos)\n    if match is None:\n        raise InvalidHeaderFormat(header_name, \"expected token\", header, pos)\n    return match.group(), match.end()",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "parse_quoted_string",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def parse_quoted_string(header: str, pos: int, header_name: str) -> Tuple[str, int]:\n    \"\"\"\n    Parse a quoted string from ``header`` at the given position.\n    Return the unquoted value and the new position.\n    :raises ~websockets.exceptions.InvalidHeaderFormat: on invalid inputs.\n    \"\"\"\n    match = _quoted_string_re.match(header, pos)\n    if match is None:\n        raise InvalidHeaderFormat(header_name, \"expected quoted string\", header, pos)\n    return _unquote_re.sub(r\"\\1\", match.group()[1:-1]), match.end()",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "build_quoted_string",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def build_quoted_string(value: str) -> str:\n    \"\"\"\n    Format ``value`` as a quoted string.\n    This is the reverse of :func:`parse_quoted_string`.\n    \"\"\"\n    match = _quotable_re.fullmatch(value)\n    if match is None:\n        raise ValueError(\"invalid characters for quoted-string encoding\")\n    return '\"' + _quote_re.sub(r\"\\\\\\1\", value) + '\"'\ndef parse_list(",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "parse_list",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def parse_list(\n    parse_item: Callable[[str, int, str], Tuple[T, int]],\n    header: str,\n    pos: int,\n    header_name: str,\n) -> List[T]:\n    \"\"\"\n    Parse a comma-separated list from ``header`` at the given position.\n    This is appropriate for parsing values with the following grammar:\n        1#item",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "parse_connection_option",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def parse_connection_option(\n    header: str, pos: int, header_name: str\n) -> Tuple[ConnectionOption, int]:\n    \"\"\"\n    Parse a Connection option from ``header`` at the given position.\n    Return the protocol value and the new position.\n    :raises ~websockets.exceptions.InvalidHeaderFormat: on invalid inputs.\n    \"\"\"\n    item, pos = parse_token(header, pos, header_name)\n    return cast(ConnectionOption, item), pos",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "parse_connection",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def parse_connection(header: str) -> List[ConnectionOption]:\n    \"\"\"\n    Parse a ``Connection`` header.\n    Return a list of HTTP connection options.\n    :param header: value of the ``Connection`` header\n    :raises ~websockets.exceptions.InvalidHeaderFormat: on invalid inputs.\n    \"\"\"\n    return parse_list(parse_connection_option, header, 0, \"Connection\")\n_protocol_re = re.compile(\n    r\"[-!#$%&\\'*+.^_`|~0-9a-zA-Z]+(?:/[-!#$%&\\'*+.^_`|~0-9a-zA-Z]+)?\"",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "parse_upgrade_protocol",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def parse_upgrade_protocol(\n    header: str, pos: int, header_name: str\n) -> Tuple[UpgradeProtocol, int]:\n    \"\"\"\n    Parse an Upgrade protocol from ``header`` at the given position.\n    Return the protocol value and the new position.\n    :raises ~websockets.exceptions.InvalidHeaderFormat: on invalid inputs.\n    \"\"\"\n    match = _protocol_re.match(header, pos)\n    if match is None:",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "parse_upgrade",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def parse_upgrade(header: str) -> List[UpgradeProtocol]:\n    \"\"\"\n    Parse an ``Upgrade`` header.\n    Return a list of HTTP protocols.\n    :param header: value of the ``Upgrade`` header\n    :raises ~websockets.exceptions.InvalidHeaderFormat: on invalid inputs.\n    \"\"\"\n    return parse_list(parse_upgrade_protocol, header, 0, \"Upgrade\")\ndef parse_extension_item_param(\n    header: str, pos: int, header_name: str",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "parse_extension_item_param",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def parse_extension_item_param(\n    header: str, pos: int, header_name: str\n) -> Tuple[ExtensionParameter, int]:\n    \"\"\"\n    Parse a single extension parameter from ``header`` at the given position.\n    Return a ``(name, value)`` pair and the new position.\n    :raises ~websockets.exceptions.InvalidHeaderFormat: on invalid inputs.\n    \"\"\"\n    # Extract parameter name.\n    name, pos = parse_token(header, pos, header_name)",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "parse_extension_item",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def parse_extension_item(\n    header: str, pos: int, header_name: str\n) -> Tuple[ExtensionHeader, int]:\n    \"\"\"\n    Parse an extension definition from ``header`` at the given position.\n    Return an ``(extension name, parameters)`` pair, where ``parameters`` is a\n    list of ``(name, value)`` pairs, and the new position.\n    :raises ~websockets.exceptions.InvalidHeaderFormat: on invalid inputs.\n    \"\"\"\n    # Extract extension name.",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "parse_extension",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def parse_extension(header: str) -> List[ExtensionHeader]:\n    \"\"\"\n    Parse a ``Sec-WebSocket-Extensions`` header.\n    Return a list of WebSocket extensions and their parameters in this format::\n        [\n            (\n                'extension name',\n                [\n                    ('parameter name', 'parameter value'),\n                    ....",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "build_extension_item",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def build_extension_item(\n    name: ExtensionName, parameters: List[ExtensionParameter]\n) -> str:\n    \"\"\"\n    Build an extension definition.\n    This is the reverse of :func:`parse_extension_item`.\n    \"\"\"\n    return \"; \".join(\n        [cast(str, name)]\n        + [",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "build_extension",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def build_extension(extensions: Sequence[ExtensionHeader]) -> str:\n    \"\"\"\n    Build a ``Sec-WebSocket-Extensions`` header.\n    This is the reverse of :func:`parse_extension`.\n    \"\"\"\n    return \", \".join(\n        build_extension_item(name, parameters) for name, parameters in extensions\n    )\nbuild_extension_list = build_extension  # alias for backwards compatibility\ndef parse_subprotocol_item(",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "parse_subprotocol_item",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def parse_subprotocol_item(\n    header: str, pos: int, header_name: str\n) -> Tuple[Subprotocol, int]:\n    \"\"\"\n    Parse a subprotocol from ``header`` at the given position.\n    Return the subprotocol value and the new position.\n    :raises ~websockets.exceptions.InvalidHeaderFormat: on invalid inputs.\n    \"\"\"\n    item, pos = parse_token(header, pos, header_name)\n    return cast(Subprotocol, item), pos",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "parse_subprotocol",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def parse_subprotocol(header: str) -> List[Subprotocol]:\n    \"\"\"\n    Parse a ``Sec-WebSocket-Protocol`` header.\n    Return a list of WebSocket subprotocols.\n    :raises ~websockets.exceptions.InvalidHeaderFormat: on invalid inputs.\n    \"\"\"\n    return parse_list(parse_subprotocol_item, header, 0, \"Sec-WebSocket-Protocol\")\nparse_subprotocol_list = parse_subprotocol  # alias for backwards compatibility\ndef build_subprotocol(protocols: Sequence[Subprotocol]) -> str:\n    \"\"\"",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "build_subprotocol",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def build_subprotocol(protocols: Sequence[Subprotocol]) -> str:\n    \"\"\"\n    Build a ``Sec-WebSocket-Protocol`` header.\n    This is the reverse of :func:`parse_subprotocol`.\n    \"\"\"\n    return \", \".join(protocols)\nbuild_subprotocol_list = build_subprotocol  # alias for backwards compatibility\ndef build_www_authenticate_basic(realm: str) -> str:\n    \"\"\"\n    Build a ``WWW-Authenticate`` header for HTTP Basic Auth.",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "build_www_authenticate_basic",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def build_www_authenticate_basic(realm: str) -> str:\n    \"\"\"\n    Build a ``WWW-Authenticate`` header for HTTP Basic Auth.\n    :param realm: authentication realm\n    \"\"\"\n    # https://tools.ietf.org/html/rfc7617#section-2\n    realm = build_quoted_string(realm)\n    charset = build_quoted_string(\"UTF-8\")\n    return f\"Basic realm={realm}, charset={charset}\"\n_token68_re = re.compile(r\"[A-Za-z0-9-._~+/]+=*\")",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "parse_token68",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def parse_token68(header: str, pos: int, header_name: str) -> Tuple[str, int]:\n    \"\"\"\n    Parse a token68 from ``header`` at the given position.\n    Return the token value and the new position.\n    :raises ~websockets.exceptions.InvalidHeaderFormat: on invalid inputs.\n    \"\"\"\n    match = _token68_re.match(header, pos)\n    if match is None:\n        raise InvalidHeaderFormat(header_name, \"expected token68\", header, pos)\n    return match.group(), match.end()",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "parse_end",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def parse_end(header: str, pos: int, header_name: str) -> None:\n    \"\"\"\n    Check that parsing reached the end of header.\n    \"\"\"\n    if pos < len(header):\n        raise InvalidHeaderFormat(header_name, \"trailing data\", header, pos)\ndef parse_authorization_basic(header: str) -> Tuple[str, str]:\n    \"\"\"\n    Parse an ``Authorization`` header for HTTP Basic Auth.\n    Return a ``(username, password)`` tuple.",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "parse_authorization_basic",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def parse_authorization_basic(header: str) -> Tuple[str, str]:\n    \"\"\"\n    Parse an ``Authorization`` header for HTTP Basic Auth.\n    Return a ``(username, password)`` tuple.\n    :param header: value of the ``Authorization`` header\n    :raises InvalidHeaderFormat: on invalid inputs\n    :raises InvalidHeaderValue: on unsupported inputs\n    \"\"\"\n    # https://tools.ietf.org/html/rfc7235#section-2.1\n    # https://tools.ietf.org/html/rfc7617#section-2",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "build_authorization_basic",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "def build_authorization_basic(username: str, password: str) -> str:\n    \"\"\"\n    Build an ``Authorization`` header for HTTP Basic Auth.\n    This is the reverse of :func:`parse_authorization_basic`.\n    \"\"\"\n    # https://tools.ietf.org/html/rfc7617#section-2\n    assert \":\" not in username\n    user_pass = f\"{username}:{password}\"\n    basic_credentials = base64.b64encode(user_pass.encode()).decode()\n    return \"Basic \" + basic_credentials",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "__all__ = [\n    \"parse_connection\",\n    \"parse_upgrade\",\n    \"parse_extension\",\n    \"build_extension\",\n    \"parse_subprotocol\",\n    \"build_subprotocol\",\n    \"build_www_authenticate_basic\",\n    \"parse_authorization_basic\",\n    \"build_authorization_basic\",",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "T",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "T = TypeVar(\"T\")\n# To avoid a dependency on a parsing library, we implement manually the ABNF\n# described in https://tools.ietf.org/html/rfc6455#section-9.1 with the\n# definitions from https://tools.ietf.org/html/rfc7230#appendix-B.\ndef peek_ahead(header: str, pos: int) -> Optional[str]:\n    \"\"\"\n    Return the next character from ``header`` at the given position.\n    Return ``None`` at the end of ``header``.\n    We never need to peek more than one character ahead.\n    \"\"\"",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "_OWS_re",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "_OWS_re = re.compile(r\"[\\t ]*\")\ndef parse_OWS(header: str, pos: int) -> int:\n    \"\"\"\n    Parse optional whitespace from ``header`` at the given position.\n    Return the new position.\n    The whitespace itself isn't returned because it isn't significant.\n    \"\"\"\n    # There's always a match, possibly empty, whose content doesn't matter.\n    match = _OWS_re.match(header, pos)\n    assert match is not None",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "_token_re",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "_token_re = re.compile(r\"[-!#$%&\\'*+.^_`|~0-9a-zA-Z]+\")\ndef parse_token(header: str, pos: int, header_name: str) -> Tuple[str, int]:\n    \"\"\"\n    Parse a token from ``header`` at the given position.\n    Return the token value and the new position.\n    :raises ~websockets.exceptions.InvalidHeaderFormat: on invalid inputs.\n    \"\"\"\n    match = _token_re.match(header, pos)\n    if match is None:\n        raise InvalidHeaderFormat(header_name, \"expected token\", header, pos)",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "_quoted_string_re",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "_quoted_string_re = re.compile(\n    r'\"(?:[\\x09\\x20-\\x21\\x23-\\x5b\\x5d-\\x7e]|\\\\[\\x09\\x20-\\x7e\\x80-\\xff])*\"'\n)\n_unquote_re = re.compile(r\"\\\\([\\x09\\x20-\\x7e\\x80-\\xff])\")\ndef parse_quoted_string(header: str, pos: int, header_name: str) -> Tuple[str, int]:\n    \"\"\"\n    Parse a quoted string from ``header`` at the given position.\n    Return the unquoted value and the new position.\n    :raises ~websockets.exceptions.InvalidHeaderFormat: on invalid inputs.\n    \"\"\"",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "_unquote_re",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "_unquote_re = re.compile(r\"\\\\([\\x09\\x20-\\x7e\\x80-\\xff])\")\ndef parse_quoted_string(header: str, pos: int, header_name: str) -> Tuple[str, int]:\n    \"\"\"\n    Parse a quoted string from ``header`` at the given position.\n    Return the unquoted value and the new position.\n    :raises ~websockets.exceptions.InvalidHeaderFormat: on invalid inputs.\n    \"\"\"\n    match = _quoted_string_re.match(header, pos)\n    if match is None:\n        raise InvalidHeaderFormat(header_name, \"expected quoted string\", header, pos)",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "_quotable_re",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "_quotable_re = re.compile(r\"[\\x09\\x20-\\x7e\\x80-\\xff]*\")\n_quote_re = re.compile(r\"([\\x22\\x5c])\")\ndef build_quoted_string(value: str) -> str:\n    \"\"\"\n    Format ``value`` as a quoted string.\n    This is the reverse of :func:`parse_quoted_string`.\n    \"\"\"\n    match = _quotable_re.fullmatch(value)\n    if match is None:\n        raise ValueError(\"invalid characters for quoted-string encoding\")",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "_quote_re",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "_quote_re = re.compile(r\"([\\x22\\x5c])\")\ndef build_quoted_string(value: str) -> str:\n    \"\"\"\n    Format ``value`` as a quoted string.\n    This is the reverse of :func:`parse_quoted_string`.\n    \"\"\"\n    match = _quotable_re.fullmatch(value)\n    if match is None:\n        raise ValueError(\"invalid characters for quoted-string encoding\")\n    return '\"' + _quote_re.sub(r\"\\\\\\1\", value) + '\"'",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "_protocol_re",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "_protocol_re = re.compile(\n    r\"[-!#$%&\\'*+.^_`|~0-9a-zA-Z]+(?:/[-!#$%&\\'*+.^_`|~0-9a-zA-Z]+)?\"\n)\ndef parse_upgrade_protocol(\n    header: str, pos: int, header_name: str\n) -> Tuple[UpgradeProtocol, int]:\n    \"\"\"\n    Parse an Upgrade protocol from ``header`` at the given position.\n    Return the protocol value and the new position.\n    :raises ~websockets.exceptions.InvalidHeaderFormat: on invalid inputs.",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "parse_extension_list",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "parse_extension_list = parse_extension  # alias for backwards compatibility\ndef build_extension_item(\n    name: ExtensionName, parameters: List[ExtensionParameter]\n) -> str:\n    \"\"\"\n    Build an extension definition.\n    This is the reverse of :func:`parse_extension_item`.\n    \"\"\"\n    return \"; \".join(\n        [cast(str, name)]",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "build_extension_list",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "build_extension_list = build_extension  # alias for backwards compatibility\ndef parse_subprotocol_item(\n    header: str, pos: int, header_name: str\n) -> Tuple[Subprotocol, int]:\n    \"\"\"\n    Parse a subprotocol from ``header`` at the given position.\n    Return the subprotocol value and the new position.\n    :raises ~websockets.exceptions.InvalidHeaderFormat: on invalid inputs.\n    \"\"\"\n    item, pos = parse_token(header, pos, header_name)",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "parse_subprotocol_list",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "parse_subprotocol_list = parse_subprotocol  # alias for backwards compatibility\ndef build_subprotocol(protocols: Sequence[Subprotocol]) -> str:\n    \"\"\"\n    Build a ``Sec-WebSocket-Protocol`` header.\n    This is the reverse of :func:`parse_subprotocol`.\n    \"\"\"\n    return \", \".join(protocols)\nbuild_subprotocol_list = build_subprotocol  # alias for backwards compatibility\ndef build_www_authenticate_basic(realm: str) -> str:\n    \"\"\"",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "build_subprotocol_list",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "build_subprotocol_list = build_subprotocol  # alias for backwards compatibility\ndef build_www_authenticate_basic(realm: str) -> str:\n    \"\"\"\n    Build a ``WWW-Authenticate`` header for HTTP Basic Auth.\n    :param realm: authentication realm\n    \"\"\"\n    # https://tools.ietf.org/html/rfc7617#section-2\n    realm = build_quoted_string(realm)\n    charset = build_quoted_string(\"UTF-8\")\n    return f\"Basic realm={realm}, charset={charset}\"",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "_token68_re",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.headers",
+        "description": "JS.myproject.myproject.websockets.headers",
+        "peekOfCode": "_token68_re = re.compile(r\"[A-Za-z0-9-._~+/]+=*\")\ndef parse_token68(header: str, pos: int, header_name: str) -> Tuple[str, int]:\n    \"\"\"\n    Parse a token68 from ``header`` at the given position.\n    Return the token value and the new position.\n    :raises ~websockets.exceptions.InvalidHeaderFormat: on invalid inputs.\n    \"\"\"\n    match = _token68_re.match(header, pos)\n    if match is None:\n        raise InvalidHeaderFormat(header_name, \"expected token68\", header, pos)",
+        "detail": "JS.myproject.myproject.websockets.headers",
+        "documentation": {}
+    },
+    {
+        "label": "build_host",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.http",
+        "description": "JS.myproject.myproject.websockets.http",
+        "peekOfCode": "def build_host(host: str, port: int, secure: bool) -> str:\n    \"\"\"\n    Build a ``Host`` header.\n    \"\"\"\n    # https://tools.ietf.org/html/rfc3986#section-3.2.2\n    # IPv6 addresses must be enclosed in brackets.\n    try:\n        address = ipaddress.ip_address(host)\n    except ValueError:\n        # host is a hostname",
+        "detail": "JS.myproject.myproject.websockets.http",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.http",
+        "description": "JS.myproject.myproject.websockets.http",
+        "peekOfCode": "__all__ = [\"USER_AGENT\", \"build_host\"]\nPYTHON_VERSION = \"{}.{}\".format(*sys.version_info)\nUSER_AGENT = f\"Python/{PYTHON_VERSION} websockets/{websockets_version}\"\ndef build_host(host: str, port: int, secure: bool) -> str:\n    \"\"\"\n    Build a ``Host`` header.\n    \"\"\"\n    # https://tools.ietf.org/html/rfc3986#section-3.2.2\n    # IPv6 addresses must be enclosed in brackets.\n    try:",
+        "detail": "JS.myproject.myproject.websockets.http",
+        "documentation": {}
+    },
+    {
+        "label": "PYTHON_VERSION",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.http",
+        "description": "JS.myproject.myproject.websockets.http",
+        "peekOfCode": "PYTHON_VERSION = \"{}.{}\".format(*sys.version_info)\nUSER_AGENT = f\"Python/{PYTHON_VERSION} websockets/{websockets_version}\"\ndef build_host(host: str, port: int, secure: bool) -> str:\n    \"\"\"\n    Build a ``Host`` header.\n    \"\"\"\n    # https://tools.ietf.org/html/rfc3986#section-3.2.2\n    # IPv6 addresses must be enclosed in brackets.\n    try:\n        address = ipaddress.ip_address(host)",
+        "detail": "JS.myproject.myproject.websockets.http",
+        "documentation": {}
+    },
+    {
+        "label": "USER_AGENT",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.http",
+        "description": "JS.myproject.myproject.websockets.http",
+        "peekOfCode": "USER_AGENT = f\"Python/{PYTHON_VERSION} websockets/{websockets_version}\"\ndef build_host(host: str, port: int, secure: bool) -> str:\n    \"\"\"\n    Build a ``Host`` header.\n    \"\"\"\n    # https://tools.ietf.org/html/rfc3986#section-3.2.2\n    # IPv6 addresses must be enclosed in brackets.\n    try:\n        address = ipaddress.ip_address(host)\n    except ValueError:",
+        "detail": "JS.myproject.myproject.websockets.http",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.http11",
+        "description": "JS.myproject.myproject.websockets.http11",
+        "peekOfCode": "class Request(NamedTuple):\n    \"\"\"\n    WebSocket handshake request.\n    :param path: path and optional query\n    :param headers:\n    \"\"\"\n    path: str\n    headers: Headers\n    # body isn't useful is the context of this library\n    @classmethod",
+        "detail": "JS.myproject.myproject.websockets.http11",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.http11",
+        "description": "JS.myproject.myproject.websockets.http11",
+        "peekOfCode": "class Response(NamedTuple):\n    \"\"\"\n    WebSocket handshake response.\n    \"\"\"\n    status_code: int\n    reason_phrase: str\n    headers: Headers\n    body: Optional[bytes] = None\n    # If processing the response triggers an exception, it's stored here.\n    exception: Optional[Exception] = None",
+        "detail": "JS.myproject.myproject.websockets.http11",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.http11",
+        "description": "JS.myproject.myproject.websockets.http11",
+        "peekOfCode": "def d(value: bytes) -> str:\n    \"\"\"\n    Decode a bytestring for interpolating into an error message.\n    \"\"\"\n    return value.decode(errors=\"backslashreplace\")\n# See https://tools.ietf.org/html/rfc7230#appendix-B.\n# Regex for validating header names.\n_token_re = re.compile(rb\"[-!#$%&\\'*+.^_`|~0-9a-zA-Z]+\")\n# Regex for validating header values.\n# We don't attempt to support obsolete line folding.",
+        "detail": "JS.myproject.myproject.websockets.http11",
+        "documentation": {}
+    },
+    {
+        "label": "parse_headers",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.http11",
+        "description": "JS.myproject.myproject.websockets.http11",
+        "peekOfCode": "def parse_headers(\n    read_line: Callable[[], Generator[None, None, bytes]]\n) -> Generator[None, None, Headers]:\n    \"\"\"\n    Parse HTTP headers.\n    Non-ASCII characters are represented with surrogate escapes.\n    :param read_line: generator-based coroutine that reads a LF-terminated\n        line or raises an exception if there isn't enough data\n    \"\"\"\n    # https://tools.ietf.org/html/rfc7230#section-3.2",
+        "detail": "JS.myproject.myproject.websockets.http11",
+        "documentation": {}
+    },
+    {
+        "label": "parse_line",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.http11",
+        "description": "JS.myproject.myproject.websockets.http11",
+        "peekOfCode": "def parse_line(\n    read_line: Callable[[], Generator[None, None, bytes]]\n) -> Generator[None, None, bytes]:\n    \"\"\"\n    Parse a single line.\n    CRLF is stripped from the return value.\n    :param read_line: generator-based coroutine that reads a LF-terminated\n        line or raises an exception if there isn't enough data\n    \"\"\"\n    # Security: TODO: add a limit here",
+        "detail": "JS.myproject.myproject.websockets.http11",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_HEADERS",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.http11",
+        "description": "JS.myproject.myproject.websockets.http11",
+        "peekOfCode": "MAX_HEADERS = 256\nMAX_LINE = 4110\ndef d(value: bytes) -> str:\n    \"\"\"\n    Decode a bytestring for interpolating into an error message.\n    \"\"\"\n    return value.decode(errors=\"backslashreplace\")\n# See https://tools.ietf.org/html/rfc7230#appendix-B.\n# Regex for validating header names.\n_token_re = re.compile(rb\"[-!#$%&\\'*+.^_`|~0-9a-zA-Z]+\")",
+        "detail": "JS.myproject.myproject.websockets.http11",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_LINE",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.http11",
+        "description": "JS.myproject.myproject.websockets.http11",
+        "peekOfCode": "MAX_LINE = 4110\ndef d(value: bytes) -> str:\n    \"\"\"\n    Decode a bytestring for interpolating into an error message.\n    \"\"\"\n    return value.decode(errors=\"backslashreplace\")\n# See https://tools.ietf.org/html/rfc7230#appendix-B.\n# Regex for validating header names.\n_token_re = re.compile(rb\"[-!#$%&\\'*+.^_`|~0-9a-zA-Z]+\")\n# Regex for validating header values.",
+        "detail": "JS.myproject.myproject.websockets.http11",
+        "documentation": {}
+    },
+    {
+        "label": "_token_re",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.http11",
+        "description": "JS.myproject.myproject.websockets.http11",
+        "peekOfCode": "_token_re = re.compile(rb\"[-!#$%&\\'*+.^_`|~0-9a-zA-Z]+\")\n# Regex for validating header values.\n# We don't attempt to support obsolete line folding.\n# Include HTAB (\\x09), SP (\\x20), VCHAR (\\x21-\\x7e), obs-text (\\x80-\\xff).\n# The ABNF is complicated because it attempts to express that optional\n# whitespace is ignored. We strip whitespace and don't revalidate that.\n# See also https://www.rfc-editor.org/errata_search.php?rfc=7230&eid=4189\n_value_re = re.compile(rb\"[\\x09\\x20-\\x7e\\x80-\\xff]*\")\n# Consider converting to dataclasses when dropping support for Python < 3.7.\nclass Request(NamedTuple):",
+        "detail": "JS.myproject.myproject.websockets.http11",
+        "documentation": {}
+    },
+    {
+        "label": "_value_re",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.http11",
+        "description": "JS.myproject.myproject.websockets.http11",
+        "peekOfCode": "_value_re = re.compile(rb\"[\\x09\\x20-\\x7e\\x80-\\xff]*\")\n# Consider converting to dataclasses when dropping support for Python < 3.7.\nclass Request(NamedTuple):\n    \"\"\"\n    WebSocket handshake request.\n    :param path: path and optional query\n    :param headers:\n    \"\"\"\n    path: str\n    headers: Headers",
+        "detail": "JS.myproject.myproject.websockets.http11",
+        "documentation": {}
+    },
+    {
+        "label": "import_name",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.imports",
+        "description": "JS.myproject.myproject.websockets.imports",
+        "peekOfCode": "def import_name(name: str, source: str, namespace: Dict[str, Any]) -> Any:\n    \"\"\"\n    Import <name> from <source> in <namespace>.\n    There are two cases:\n    - <name> is an object defined in <source>\n    - <name> is a submodule of source\n    Neither __import__ nor importlib.import_module does exactly this.\n    __import__ is closer to the intended behavior.\n    \"\"\"\n    level = 0",
+        "detail": "JS.myproject.myproject.websockets.imports",
+        "documentation": {}
+    },
+    {
+        "label": "lazy_import",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.imports",
+        "description": "JS.myproject.myproject.websockets.imports",
+        "peekOfCode": "def lazy_import(\n    namespace: Dict[str, Any],\n    aliases: Optional[Dict[str, str]] = None,\n    deprecated_aliases: Optional[Dict[str, str]] = None,\n) -> None:\n    \"\"\"\n    Provide lazy, module-level imports.\n    Typical use::\n        __getattr__, __dir__ = lazy_import(\n            globals(),",
+        "detail": "JS.myproject.myproject.websockets.imports",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.imports",
+        "description": "JS.myproject.myproject.websockets.imports",
+        "peekOfCode": "__all__ = [\"lazy_import\"]\ndef import_name(name: str, source: str, namespace: Dict[str, Any]) -> Any:\n    \"\"\"\n    Import <name> from <source> in <namespace>.\n    There are two cases:\n    - <name> is an object defined in <source>\n    - <name> is a submodule of source\n    Neither __import__ nor importlib.import_module does exactly this.\n    __import__ is closer to the intended behavior.\n    \"\"\"",
+        "detail": "JS.myproject.myproject.websockets.imports",
+        "documentation": {}
+    },
+    {
+        "label": "ServerConnection",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.server",
+        "description": "JS.myproject.myproject.websockets.server",
+        "peekOfCode": "class ServerConnection(Connection):\n    side = SERVER\n    def __init__(\n        self,\n        origins: Optional[Sequence[Optional[Origin]]] = None,\n        extensions: Optional[Sequence[ServerExtensionFactory]] = None,\n        subprotocols: Optional[Sequence[Subprotocol]] = None,\n        extra_headers: Optional[HeadersLikeOrCallable] = None,\n        max_size: Optional[int] = 2 ** 20,\n    ):",
+        "detail": "JS.myproject.myproject.websockets.server",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.server",
+        "description": "JS.myproject.myproject.websockets.server",
+        "peekOfCode": "__all__ = [\"ServerConnection\"]\nlogger = logging.getLogger(__name__)\nHeadersLikeOrCallable = Union[HeadersLike, Callable[[str, Headers], HeadersLike]]\nclass ServerConnection(Connection):\n    side = SERVER\n    def __init__(\n        self,\n        origins: Optional[Sequence[Optional[Origin]]] = None,\n        extensions: Optional[Sequence[ServerExtensionFactory]] = None,\n        subprotocols: Optional[Sequence[Subprotocol]] = None,",
+        "detail": "JS.myproject.myproject.websockets.server",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.server",
+        "description": "JS.myproject.myproject.websockets.server",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nHeadersLikeOrCallable = Union[HeadersLike, Callable[[str, Headers], HeadersLike]]\nclass ServerConnection(Connection):\n    side = SERVER\n    def __init__(\n        self,\n        origins: Optional[Sequence[Optional[Origin]]] = None,\n        extensions: Optional[Sequence[ServerExtensionFactory]] = None,\n        subprotocols: Optional[Sequence[Subprotocol]] = None,\n        extra_headers: Optional[HeadersLikeOrCallable] = None,",
+        "detail": "JS.myproject.myproject.websockets.server",
+        "documentation": {}
+    },
+    {
+        "label": "HeadersLikeOrCallable",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.server",
+        "description": "JS.myproject.myproject.websockets.server",
+        "peekOfCode": "HeadersLikeOrCallable = Union[HeadersLike, Callable[[str, Headers], HeadersLike]]\nclass ServerConnection(Connection):\n    side = SERVER\n    def __init__(\n        self,\n        origins: Optional[Sequence[Optional[Origin]]] = None,\n        extensions: Optional[Sequence[ServerExtensionFactory]] = None,\n        subprotocols: Optional[Sequence[Subprotocol]] = None,\n        extra_headers: Optional[HeadersLikeOrCallable] = None,\n        max_size: Optional[int] = 2 ** 20,",
+        "detail": "JS.myproject.myproject.websockets.server",
+        "documentation": {}
+    },
+    {
+        "label": "StreamReader",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.streams",
+        "description": "JS.myproject.myproject.websockets.streams",
+        "peekOfCode": "class StreamReader:\n    \"\"\"\n    Generator-based stream reader.\n    This class doesn't support concurrent calls to :meth:`read_line()`,\n    :meth:`read_exact()`, or :meth:`read_to_eof()`. Make sure calls are\n    serialized.\n    \"\"\"\n    def __init__(self) -> None:\n        self.buffer = bytearray()\n        self.eof = False",
+        "detail": "JS.myproject.myproject.websockets.streams",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.typing",
+        "description": "JS.myproject.myproject.websockets.typing",
+        "peekOfCode": "__all__ = [\"Data\", \"Origin\", \"ExtensionHeader\", \"ExtensionParameter\", \"Subprotocol\"]\nData = Union[str, bytes]\nData__doc__ = \"\"\"\nTypes supported in a WebSocket message:\n- :class:`str` for text messages\n- :class:`bytes` for binary messages\n\"\"\"\n# Remove try / except when dropping support for Python < 3.7\ntry:\n    Data.__doc__ = Data__doc__",
+        "detail": "JS.myproject.myproject.websockets.typing",
+        "documentation": {}
+    },
+    {
+        "label": "Data",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.typing",
+        "description": "JS.myproject.myproject.websockets.typing",
+        "peekOfCode": "Data = Union[str, bytes]\nData__doc__ = \"\"\"\nTypes supported in a WebSocket message:\n- :class:`str` for text messages\n- :class:`bytes` for binary messages\n\"\"\"\n# Remove try / except when dropping support for Python < 3.7\ntry:\n    Data.__doc__ = Data__doc__\nexcept AttributeError:  # pragma: no cover",
+        "detail": "JS.myproject.myproject.websockets.typing",
+        "documentation": {}
+    },
+    {
+        "label": "Data__doc__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.typing",
+        "description": "JS.myproject.myproject.websockets.typing",
+        "peekOfCode": "Data__doc__ = \"\"\"\nTypes supported in a WebSocket message:\n- :class:`str` for text messages\n- :class:`bytes` for binary messages\n\"\"\"\n# Remove try / except when dropping support for Python < 3.7\ntry:\n    Data.__doc__ = Data__doc__\nexcept AttributeError:  # pragma: no cover\n    pass",
+        "detail": "JS.myproject.myproject.websockets.typing",
+        "documentation": {}
+    },
+    {
+        "label": "Origin",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.typing",
+        "description": "JS.myproject.myproject.websockets.typing",
+        "peekOfCode": "Origin = NewType(\"Origin\", str)\nOrigin.__doc__ = \"\"\"Value of a Origin header\"\"\"\nExtensionName = NewType(\"ExtensionName\", str)\nExtensionName.__doc__ = \"\"\"Name of a WebSocket extension\"\"\"\nExtensionParameter = Tuple[str, Optional[str]]\nExtensionParameter__doc__ = \"\"\"Parameter of a WebSocket extension\"\"\"\ntry:\n    ExtensionParameter.__doc__ = ExtensionParameter__doc__\nexcept AttributeError:  # pragma: no cover\n    pass",
+        "detail": "JS.myproject.myproject.websockets.typing",
+        "documentation": {}
+    },
+    {
+        "label": "Origin.__doc__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.typing",
+        "description": "JS.myproject.myproject.websockets.typing",
+        "peekOfCode": "Origin.__doc__ = \"\"\"Value of a Origin header\"\"\"\nExtensionName = NewType(\"ExtensionName\", str)\nExtensionName.__doc__ = \"\"\"Name of a WebSocket extension\"\"\"\nExtensionParameter = Tuple[str, Optional[str]]\nExtensionParameter__doc__ = \"\"\"Parameter of a WebSocket extension\"\"\"\ntry:\n    ExtensionParameter.__doc__ = ExtensionParameter__doc__\nexcept AttributeError:  # pragma: no cover\n    pass\nExtensionHeader = Tuple[ExtensionName, List[ExtensionParameter]]",
+        "detail": "JS.myproject.myproject.websockets.typing",
+        "documentation": {}
+    },
+    {
+        "label": "ExtensionName",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.typing",
+        "description": "JS.myproject.myproject.websockets.typing",
+        "peekOfCode": "ExtensionName = NewType(\"ExtensionName\", str)\nExtensionName.__doc__ = \"\"\"Name of a WebSocket extension\"\"\"\nExtensionParameter = Tuple[str, Optional[str]]\nExtensionParameter__doc__ = \"\"\"Parameter of a WebSocket extension\"\"\"\ntry:\n    ExtensionParameter.__doc__ = ExtensionParameter__doc__\nexcept AttributeError:  # pragma: no cover\n    pass\nExtensionHeader = Tuple[ExtensionName, List[ExtensionParameter]]\nExtensionHeader__doc__ = \"\"\"Extension in a Sec-WebSocket-Extensions header\"\"\"",
+        "detail": "JS.myproject.myproject.websockets.typing",
+        "documentation": {}
+    },
+    {
+        "label": "ExtensionName.__doc__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.typing",
+        "description": "JS.myproject.myproject.websockets.typing",
+        "peekOfCode": "ExtensionName.__doc__ = \"\"\"Name of a WebSocket extension\"\"\"\nExtensionParameter = Tuple[str, Optional[str]]\nExtensionParameter__doc__ = \"\"\"Parameter of a WebSocket extension\"\"\"\ntry:\n    ExtensionParameter.__doc__ = ExtensionParameter__doc__\nexcept AttributeError:  # pragma: no cover\n    pass\nExtensionHeader = Tuple[ExtensionName, List[ExtensionParameter]]\nExtensionHeader__doc__ = \"\"\"Extension in a Sec-WebSocket-Extensions header\"\"\"\ntry:",
+        "detail": "JS.myproject.myproject.websockets.typing",
+        "documentation": {}
+    },
+    {
+        "label": "ExtensionParameter",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.typing",
+        "description": "JS.myproject.myproject.websockets.typing",
+        "peekOfCode": "ExtensionParameter = Tuple[str, Optional[str]]\nExtensionParameter__doc__ = \"\"\"Parameter of a WebSocket extension\"\"\"\ntry:\n    ExtensionParameter.__doc__ = ExtensionParameter__doc__\nexcept AttributeError:  # pragma: no cover\n    pass\nExtensionHeader = Tuple[ExtensionName, List[ExtensionParameter]]\nExtensionHeader__doc__ = \"\"\"Extension in a Sec-WebSocket-Extensions header\"\"\"\ntry:\n    ExtensionHeader.__doc__ = ExtensionHeader__doc__",
+        "detail": "JS.myproject.myproject.websockets.typing",
+        "documentation": {}
+    },
+    {
+        "label": "ExtensionParameter__doc__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.typing",
+        "description": "JS.myproject.myproject.websockets.typing",
+        "peekOfCode": "ExtensionParameter__doc__ = \"\"\"Parameter of a WebSocket extension\"\"\"\ntry:\n    ExtensionParameter.__doc__ = ExtensionParameter__doc__\nexcept AttributeError:  # pragma: no cover\n    pass\nExtensionHeader = Tuple[ExtensionName, List[ExtensionParameter]]\nExtensionHeader__doc__ = \"\"\"Extension in a Sec-WebSocket-Extensions header\"\"\"\ntry:\n    ExtensionHeader.__doc__ = ExtensionHeader__doc__\nexcept AttributeError:  # pragma: no cover",
+        "detail": "JS.myproject.myproject.websockets.typing",
+        "documentation": {}
+    },
+    {
+        "label": "ExtensionHeader",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.typing",
+        "description": "JS.myproject.myproject.websockets.typing",
+        "peekOfCode": "ExtensionHeader = Tuple[ExtensionName, List[ExtensionParameter]]\nExtensionHeader__doc__ = \"\"\"Extension in a Sec-WebSocket-Extensions header\"\"\"\ntry:\n    ExtensionHeader.__doc__ = ExtensionHeader__doc__\nexcept AttributeError:  # pragma: no cover\n    pass\nSubprotocol = NewType(\"Subprotocol\", str)\nSubprotocol.__doc__ = \"\"\"Subprotocol value in a Sec-WebSocket-Protocol header\"\"\"\nConnectionOption = NewType(\"ConnectionOption\", str)\nConnectionOption.__doc__ = \"\"\"Connection option in a Connection header\"\"\"",
+        "detail": "JS.myproject.myproject.websockets.typing",
+        "documentation": {}
+    },
+    {
+        "label": "ExtensionHeader__doc__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.typing",
+        "description": "JS.myproject.myproject.websockets.typing",
+        "peekOfCode": "ExtensionHeader__doc__ = \"\"\"Extension in a Sec-WebSocket-Extensions header\"\"\"\ntry:\n    ExtensionHeader.__doc__ = ExtensionHeader__doc__\nexcept AttributeError:  # pragma: no cover\n    pass\nSubprotocol = NewType(\"Subprotocol\", str)\nSubprotocol.__doc__ = \"\"\"Subprotocol value in a Sec-WebSocket-Protocol header\"\"\"\nConnectionOption = NewType(\"ConnectionOption\", str)\nConnectionOption.__doc__ = \"\"\"Connection option in a Connection header\"\"\"\nUpgradeProtocol = NewType(\"UpgradeProtocol\", str)",
+        "detail": "JS.myproject.myproject.websockets.typing",
+        "documentation": {}
+    },
+    {
+        "label": "Subprotocol",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.typing",
+        "description": "JS.myproject.myproject.websockets.typing",
+        "peekOfCode": "Subprotocol = NewType(\"Subprotocol\", str)\nSubprotocol.__doc__ = \"\"\"Subprotocol value in a Sec-WebSocket-Protocol header\"\"\"\nConnectionOption = NewType(\"ConnectionOption\", str)\nConnectionOption.__doc__ = \"\"\"Connection option in a Connection header\"\"\"\nUpgradeProtocol = NewType(\"UpgradeProtocol\", str)\nUpgradeProtocol.__doc__ = \"\"\"Upgrade protocol in an Upgrade header\"\"\"",
+        "detail": "JS.myproject.myproject.websockets.typing",
+        "documentation": {}
+    },
+    {
+        "label": "Subprotocol.__doc__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.typing",
+        "description": "JS.myproject.myproject.websockets.typing",
+        "peekOfCode": "Subprotocol.__doc__ = \"\"\"Subprotocol value in a Sec-WebSocket-Protocol header\"\"\"\nConnectionOption = NewType(\"ConnectionOption\", str)\nConnectionOption.__doc__ = \"\"\"Connection option in a Connection header\"\"\"\nUpgradeProtocol = NewType(\"UpgradeProtocol\", str)\nUpgradeProtocol.__doc__ = \"\"\"Upgrade protocol in an Upgrade header\"\"\"",
+        "detail": "JS.myproject.myproject.websockets.typing",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionOption",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.typing",
+        "description": "JS.myproject.myproject.websockets.typing",
+        "peekOfCode": "ConnectionOption = NewType(\"ConnectionOption\", str)\nConnectionOption.__doc__ = \"\"\"Connection option in a Connection header\"\"\"\nUpgradeProtocol = NewType(\"UpgradeProtocol\", str)\nUpgradeProtocol.__doc__ = \"\"\"Upgrade protocol in an Upgrade header\"\"\"",
+        "detail": "JS.myproject.myproject.websockets.typing",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionOption.__doc__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.typing",
+        "description": "JS.myproject.myproject.websockets.typing",
+        "peekOfCode": "ConnectionOption.__doc__ = \"\"\"Connection option in a Connection header\"\"\"\nUpgradeProtocol = NewType(\"UpgradeProtocol\", str)\nUpgradeProtocol.__doc__ = \"\"\"Upgrade protocol in an Upgrade header\"\"\"",
+        "detail": "JS.myproject.myproject.websockets.typing",
+        "documentation": {}
+    },
+    {
+        "label": "UpgradeProtocol",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.typing",
+        "description": "JS.myproject.myproject.websockets.typing",
+        "peekOfCode": "UpgradeProtocol = NewType(\"UpgradeProtocol\", str)\nUpgradeProtocol.__doc__ = \"\"\"Upgrade protocol in an Upgrade header\"\"\"",
+        "detail": "JS.myproject.myproject.websockets.typing",
+        "documentation": {}
+    },
+    {
+        "label": "UpgradeProtocol.__doc__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.typing",
+        "description": "JS.myproject.myproject.websockets.typing",
+        "peekOfCode": "UpgradeProtocol.__doc__ = \"\"\"Upgrade protocol in an Upgrade header\"\"\"",
+        "detail": "JS.myproject.myproject.websockets.typing",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocketURI",
+        "kind": 6,
+        "importPath": "JS.myproject.myproject.websockets.uri",
+        "description": "JS.myproject.myproject.websockets.uri",
+        "peekOfCode": "class WebSocketURI(NamedTuple):\n    \"\"\"\n    WebSocket URI.\n    :param bool secure: secure flag\n    :param str host: lower-case host\n    :param int port: port, always set even if it's the default\n    :param str resource_name: path and optional query\n    :param str user_info: ``(username, password)`` tuple when the URI contains\n      `User Information`_, else ``None``.\n    .. _User Information: https://tools.ietf.org/html/rfc3986#section-3.2.1",
+        "detail": "JS.myproject.myproject.websockets.uri",
+        "documentation": {}
+    },
+    {
+        "label": "parse_uri",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.uri",
+        "description": "JS.myproject.myproject.websockets.uri",
+        "peekOfCode": "def parse_uri(uri: str) -> WebSocketURI:\n    \"\"\"\n    Parse and validate a WebSocket URI.\n    :raises ValueError: if ``uri`` isn't a valid WebSocket URI.\n    \"\"\"\n    parsed = urllib.parse.urlparse(uri)\n    try:\n        assert parsed.scheme in [\"ws\", \"wss\"]\n        assert parsed.params == \"\"\n        assert parsed.fragment == \"\"",
+        "detail": "JS.myproject.myproject.websockets.uri",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.uri",
+        "description": "JS.myproject.myproject.websockets.uri",
+        "peekOfCode": "__all__ = [\"parse_uri\", \"WebSocketURI\"]\n# Consider converting to a dataclass when dropping support for Python < 3.7.\nclass WebSocketURI(NamedTuple):\n    \"\"\"\n    WebSocket URI.\n    :param bool secure: secure flag\n    :param str host: lower-case host\n    :param int port: port, always set even if it's the default\n    :param str resource_name: path and optional query\n    :param str user_info: ``(username, password)`` tuple when the URI contains",
+        "detail": "JS.myproject.myproject.websockets.uri",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocketURI.secure.__doc__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.uri",
+        "description": "JS.myproject.myproject.websockets.uri",
+        "peekOfCode": "WebSocketURI.secure.__doc__ = \"\"\nWebSocketURI.host.__doc__ = \"\"\nWebSocketURI.port.__doc__ = \"\"\nWebSocketURI.resource_name.__doc__ = \"\"\nWebSocketURI.user_info.__doc__ = \"\"\n# All characters from the gen-delims and sub-delims sets in RFC 3987.\nDELIMS = \":/?#[]@!$&'()*+,;=\"\ndef parse_uri(uri: str) -> WebSocketURI:\n    \"\"\"\n    Parse and validate a WebSocket URI.",
+        "detail": "JS.myproject.myproject.websockets.uri",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocketURI.host.__doc__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.uri",
+        "description": "JS.myproject.myproject.websockets.uri",
+        "peekOfCode": "WebSocketURI.host.__doc__ = \"\"\nWebSocketURI.port.__doc__ = \"\"\nWebSocketURI.resource_name.__doc__ = \"\"\nWebSocketURI.user_info.__doc__ = \"\"\n# All characters from the gen-delims and sub-delims sets in RFC 3987.\nDELIMS = \":/?#[]@!$&'()*+,;=\"\ndef parse_uri(uri: str) -> WebSocketURI:\n    \"\"\"\n    Parse and validate a WebSocket URI.\n    :raises ValueError: if ``uri`` isn't a valid WebSocket URI.",
+        "detail": "JS.myproject.myproject.websockets.uri",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocketURI.port.__doc__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.uri",
+        "description": "JS.myproject.myproject.websockets.uri",
+        "peekOfCode": "WebSocketURI.port.__doc__ = \"\"\nWebSocketURI.resource_name.__doc__ = \"\"\nWebSocketURI.user_info.__doc__ = \"\"\n# All characters from the gen-delims and sub-delims sets in RFC 3987.\nDELIMS = \":/?#[]@!$&'()*+,;=\"\ndef parse_uri(uri: str) -> WebSocketURI:\n    \"\"\"\n    Parse and validate a WebSocket URI.\n    :raises ValueError: if ``uri`` isn't a valid WebSocket URI.\n    \"\"\"",
+        "detail": "JS.myproject.myproject.websockets.uri",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocketURI.resource_name.__doc__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.uri",
+        "description": "JS.myproject.myproject.websockets.uri",
+        "peekOfCode": "WebSocketURI.resource_name.__doc__ = \"\"\nWebSocketURI.user_info.__doc__ = \"\"\n# All characters from the gen-delims and sub-delims sets in RFC 3987.\nDELIMS = \":/?#[]@!$&'()*+,;=\"\ndef parse_uri(uri: str) -> WebSocketURI:\n    \"\"\"\n    Parse and validate a WebSocket URI.\n    :raises ValueError: if ``uri`` isn't a valid WebSocket URI.\n    \"\"\"\n    parsed = urllib.parse.urlparse(uri)",
+        "detail": "JS.myproject.myproject.websockets.uri",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocketURI.user_info.__doc__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.uri",
+        "description": "JS.myproject.myproject.websockets.uri",
+        "peekOfCode": "WebSocketURI.user_info.__doc__ = \"\"\n# All characters from the gen-delims and sub-delims sets in RFC 3987.\nDELIMS = \":/?#[]@!$&'()*+,;=\"\ndef parse_uri(uri: str) -> WebSocketURI:\n    \"\"\"\n    Parse and validate a WebSocket URI.\n    :raises ValueError: if ``uri`` isn't a valid WebSocket URI.\n    \"\"\"\n    parsed = urllib.parse.urlparse(uri)\n    try:",
+        "detail": "JS.myproject.myproject.websockets.uri",
+        "documentation": {}
+    },
+    {
+        "label": "DELIMS",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.uri",
+        "description": "JS.myproject.myproject.websockets.uri",
+        "peekOfCode": "DELIMS = \":/?#[]@!$&'()*+,;=\"\ndef parse_uri(uri: str) -> WebSocketURI:\n    \"\"\"\n    Parse and validate a WebSocket URI.\n    :raises ValueError: if ``uri`` isn't a valid WebSocket URI.\n    \"\"\"\n    parsed = urllib.parse.urlparse(uri)\n    try:\n        assert parsed.scheme in [\"ws\", \"wss\"]\n        assert parsed.params == \"\"",
+        "detail": "JS.myproject.myproject.websockets.uri",
+        "documentation": {}
+    },
+    {
+        "label": "generate_key",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.utils",
+        "description": "JS.myproject.myproject.websockets.utils",
+        "peekOfCode": "def generate_key() -> str:\n    \"\"\"\n    Generate a random key for the Sec-WebSocket-Key header.\n    \"\"\"\n    key = secrets.token_bytes(16)\n    return base64.b64encode(key).decode()\ndef accept_key(key: str) -> str:\n    \"\"\"\n    Compute the value of the Sec-WebSocket-Accept header.\n    :param key: value of the Sec-WebSocket-Key header",
+        "detail": "JS.myproject.myproject.websockets.utils",
+        "documentation": {}
+    },
+    {
+        "label": "accept_key",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.utils",
+        "description": "JS.myproject.myproject.websockets.utils",
+        "peekOfCode": "def accept_key(key: str) -> str:\n    \"\"\"\n    Compute the value of the Sec-WebSocket-Accept header.\n    :param key: value of the Sec-WebSocket-Key header\n    \"\"\"\n    sha1 = hashlib.sha1((key + GUID).encode()).digest()\n    return base64.b64encode(sha1).decode()\ndef apply_mask(data: bytes, mask: bytes) -> bytes:\n    \"\"\"\n    Apply masking to the data of a WebSocket message.",
+        "detail": "JS.myproject.myproject.websockets.utils",
+        "documentation": {}
+    },
+    {
+        "label": "apply_mask",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.websockets.utils",
+        "description": "JS.myproject.myproject.websockets.utils",
+        "peekOfCode": "def apply_mask(data: bytes, mask: bytes) -> bytes:\n    \"\"\"\n    Apply masking to the data of a WebSocket message.\n    :param data: Data to mask\n    :param mask: 4-bytes mask\n    \"\"\"\n    if len(mask) != 4:\n        raise ValueError(\"mask must contain 4 bytes\")\n    return bytes(b ^ m for b, m in zip(data, itertools.cycle(mask)))",
+        "detail": "JS.myproject.myproject.websockets.utils",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.utils",
+        "description": "JS.myproject.myproject.websockets.utils",
+        "peekOfCode": "__all__ = [\"accept_key\", \"apply_mask\"]\nGUID = \"258EAFA5-E914-47DA-95CA-C5AB0DC85B11\"\ndef generate_key() -> str:\n    \"\"\"\n    Generate a random key for the Sec-WebSocket-Key header.\n    \"\"\"\n    key = secrets.token_bytes(16)\n    return base64.b64encode(key).decode()\ndef accept_key(key: str) -> str:\n    \"\"\"",
+        "detail": "JS.myproject.myproject.websockets.utils",
+        "documentation": {}
+    },
+    {
+        "label": "GUID",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.utils",
+        "description": "JS.myproject.myproject.websockets.utils",
+        "peekOfCode": "GUID = \"258EAFA5-E914-47DA-95CA-C5AB0DC85B11\"\ndef generate_key() -> str:\n    \"\"\"\n    Generate a random key for the Sec-WebSocket-Key header.\n    \"\"\"\n    key = secrets.token_bytes(16)\n    return base64.b64encode(key).decode()\ndef accept_key(key: str) -> str:\n    \"\"\"\n    Compute the value of the Sec-WebSocket-Accept header.",
+        "detail": "JS.myproject.myproject.websockets.utils",
+        "documentation": {}
+    },
+    {
+        "label": "version",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.websockets.version",
+        "description": "JS.myproject.myproject.websockets.version",
+        "peekOfCode": "version = \"9.1\"",
+        "detail": "JS.myproject.myproject.websockets.version",
+        "documentation": {}
+    },
+    {
+        "label": "on_message",
+        "kind": 2,
+        "importPath": "JS.myproject.myproject.main",
+        "description": "JS.myproject.myproject.main",
+        "peekOfCode": "def on_message(client, server, message):\n    server.send_message_to_all(message)\nserver = ws(8080, host='192.168.0.23', loglevel=logging.INFO)\nserver.set_fn_message_received(on_message)\nserver.run_forever()",
+        "detail": "JS.myproject.myproject.main",
+        "documentation": {}
+    },
+    {
+        "label": "server",
+        "kind": 5,
+        "importPath": "JS.myproject.myproject.main",
+        "description": "JS.myproject.myproject.main",
+        "peekOfCode": "server = ws(8080, host='192.168.0.23', loglevel=logging.INFO)\nserver.set_fn_message_received(on_message)\nserver.run_forever()",
+        "detail": "JS.myproject.myproject.main",
+        "documentation": {}
+    },
+    {
+        "label": "start_server",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "start_server = ws.serve(action, \"localhost\", 8080)\nasyncio.get_event_loop().run_until_complete(start_server)\nasyncio.get_event_loop().run_forever()",
+        "detail": "main",
+        "documentation": {}
+    }
+]
